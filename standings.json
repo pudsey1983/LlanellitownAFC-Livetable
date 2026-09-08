@@ -1,0 +1,812 @@
+[
+  {
+    "team": {
+      "id": 28488,
+      "fifaId": "108UZ3B",
+      "name": "Pure Swansea FC",
+      "picture": "30854832-2851-43a9-a56e-f884f9e0dbca",
+      "place": "Swansea",
+      "allowDetail": true,
+      "parent": {
+        "id": 12694,
+        "fifaId": "108UZ3B",
+        "name": "Pure Swansea Football Club",
+        "picture": "30854832-2851-43a9-a56e-f884f9e0dbca",
+        "place": "Swansea",
+        "allowDetail": true
+      }
+    },
+    "played": 5,
+    "wins": 4,
+    "draws": 1,
+    "losses": 0,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 18,
+    "goalsAgainst": 5,
+    "points": 13,
+    "negativePoints": 0,
+    "position": 1,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695905,
+      "result": "D"
+    },
+    "m2": {
+      "matchId": 107695893,
+      "result": "W"
+    },
+    "m3": {
+      "matchId": 107695883,
+      "result": "W"
+    },
+    "m4": {
+      "matchId": 107695879,
+      "result": "W"
+    },
+    "m5": {
+      "matchId": 107695868,
+      "result": "W"
+    }
+  },
+  {
+    "team": {
+      "id": 28616,
+      "fifaId": "108UGWH",
+      "name": "Pontypridd United",
+      "picture": "125f3762-f12f-4da5-9a3e-b8b3075980d9",
+      "place": "Pontypridd",
+      "allowDetail": true,
+      "parent": {
+        "id": 10092,
+        "fifaId": "108UGWH",
+        "name": "Pontypridd United",
+        "picture": "125f3762-f12f-4da5-9a3e-b8b3075980d9",
+        "place": "Pontypridd",
+        "allowDetail": true
+      }
+    },
+    "played": 5,
+    "wins": 4,
+    "draws": 1,
+    "losses": 0,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 16,
+    "goalsAgainst": 10,
+    "points": 13,
+    "negativePoints": 0,
+    "position": 2,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695905,
+      "result": "D"
+    },
+    "m2": {
+      "matchId": 107695890,
+      "result": "W"
+    },
+    "m3": {
+      "matchId": 107695887,
+      "result": "W"
+    },
+    "m4": {
+      "matchId": 107695878,
+      "result": "W"
+    },
+    "m5": {
+      "matchId": 107695872,
+      "result": "W"
+    }
+  },
+  {
+    "team": {
+      "id": 27755,
+      "fifaId": "108VF3F",
+      "name": "Baglan Dragons FC",
+      "picture": "9b174d54-3b95-4809-b6f2-d0c371807344",
+      "place": "Port Talbot",
+      "allowDetail": true,
+      "parent": {
+        "id": 10462,
+        "fifaId": "108VF3F",
+        "name": "Baglan Dragons FC",
+        "picture": "9b174d54-3b95-4809-b6f2-d0c371807344",
+        "place": "Port Talbot",
+        "allowDetail": true
+      }
+    },
+    "played": 7,
+    "wins": 4,
+    "draws": 1,
+    "losses": 2,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 7,
+    "goalsAgainst": 6,
+    "points": 13,
+    "negativePoints": 0,
+    "position": 3,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695914,
+      "result": "W"
+    },
+    "m2": {
+      "matchId": 107695909,
+      "result": "L"
+    },
+    "m3": {
+      "matchId": 107695901,
+      "result": "W"
+    },
+    "m4": {
+      "matchId": 107695897,
+      "result": "W"
+    },
+    "m5": {
+      "matchId": 107695884,
+      "result": "W"
+    }
+  },
+  {
+    "team": {
+      "id": 27752,
+      "fifaId": "108UIAJ",
+      "name": "Aberystwyth Town FC",
+      "picture": "b0a89dc1-f633-449e-9501-f17af62dae43",
+      "place": "Aberystwyth",
+      "allowDetail": true,
+      "parent": {
+        "id": 10009,
+        "fifaId": "108UIAJ",
+        "name": "Aberystwyth Town FC",
+        "picture": "b0a89dc1-f633-449e-9501-f17af62dae43",
+        "place": "Aberystwyth",
+        "allowDetail": true
+      }
+    },
+    "played": 5,
+    "wins": 4,
+    "draws": 0,
+    "losses": 1,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 16,
+    "goalsAgainst": 5,
+    "points": 12,
+    "negativePoints": 0,
+    "position": 4,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695906,
+      "result": "W"
+    },
+    "m2": {
+      "matchId": 107695899,
+      "result": "W"
+    },
+    "m3": {
+      "matchId": 107695892,
+      "result": "W"
+    },
+    "m4": {
+      "matchId": 107695877,
+      "result": "L"
+    },
+    "m5": {
+      "matchId": 107695871,
+      "result": "W"
+    }
+  },
+  {
+    "team": {
+      "id": 46445,
+      "fifaId": "108UDNH",
+      "name": "Treowen Stars AFC",
+      "picture": "722752c0-8be5-4a92-909c-de295225cc5a",
+      "place": "Newbridge",
+      "allowDetail": true,
+      "parent": {
+        "id": 10306,
+        "fifaId": "108UDNH",
+        "name": "Treowen Stars AFC",
+        "picture": "722752c0-8be5-4a92-909c-de295225cc5a",
+        "place": "Newbridge",
+        "allowDetail": true
+      }
+    },
+    "played": 6,
+    "wins": 4,
+    "draws": 0,
+    "losses": 2,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 15,
+    "goalsAgainst": 9,
+    "points": 12,
+    "negativePoints": 0,
+    "position": 5,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695915,
+      "result": "W"
+    },
+    "m2": {
+      "matchId": 107695907,
+      "result": "L"
+    },
+    "m3": {
+      "matchId": 107695894,
+      "result": "W"
+    },
+    "m4": {
+      "matchId": 107695888,
+      "result": "W"
+    },
+    "m5": {
+      "matchId": 107695877,
+      "result": "W"
+    }
+  },
+  {
+    "team": {
+      "id": 28550,
+      "fifaId": "108UHLH",
+      "name": "Carmarthen Town FC",
+      "picture": "3c8d39aa-93e5-4e21-9353-832a187792bc",
+      "place": "Carmarthen",
+      "allowDetail": true,
+      "parent": {
+        "id": 10048,
+        "fifaId": "108UHLH",
+        "name": "Carmarthen Town FC",
+        "picture": "3c8d39aa-93e5-4e21-9353-832a187792bc",
+        "place": "Carmarthen",
+        "allowDetail": true
+      }
+    },
+    "played": 6,
+    "wins": 3,
+    "draws": 1,
+    "losses": 2,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 15,
+    "goalsAgainst": 14,
+    "points": 10,
+    "negativePoints": 0,
+    "position": 6,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695910,
+      "result": "L"
+    },
+    "m2": {
+      "matchId": 107695902,
+      "result": "D"
+    },
+    "m3": {
+      "matchId": 107695894,
+      "result": "L"
+    },
+    "m4": {
+      "matchId": 107695882,
+      "result": "W"
+    },
+    "m5": {
+      "matchId": 107695881,
+      "result": "W"
+    }
+  },
+  {
+    "team": {
+      "id": 28587,
+      "fifaId": "108UJ0B",
+      "name": "Trethomas Bluebirds AFC",
+      "picture": "11b7ab89-b536-4520-a452-3d5a4e0eccee",
+      "place": "Caerphilly",
+      "allowDetail": true,
+      "parent": {
+        "id": 10426,
+        "fifaId": "108UJ0B",
+        "name": "Trethomas Bluebirds AFC",
+        "picture": "11b7ab89-b536-4520-a452-3d5a4e0eccee",
+        "place": "Caerphilly",
+        "allowDetail": true
+      }
+    },
+    "played": 7,
+    "wins": 2,
+    "draws": 3,
+    "losses": 2,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 14,
+    "goalsAgainst": 13,
+    "points": 9,
+    "negativePoints": 0,
+    "position": 7,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695916,
+      "result": "D"
+    },
+    "m2": {
+      "matchId": 107695910,
+      "result": "W"
+    },
+    "m3": {
+      "matchId": 107695904,
+      "result": "W"
+    },
+    "m4": {
+      "matchId": 107695890,
+      "result": "L"
+    },
+    "m5": {
+      "matchId": 107695889,
+      "result": "L"
+    }
+  },
+  {
+    "team": {
+      "id": 28620,
+      "fifaId": "108UMJG",
+      "name": "Ynyshir Albions FC",
+      "picture": "3d8f4997-67a5-4aae-86a1-9b2adc104d2a",
+      "place": "Ynyshir",
+      "allowDetail": true,
+      "parent": {
+        "id": 10566,
+        "fifaId": "108UMJG",
+        "name": "Ynyshir Albions FC",
+        "picture": "eff638d3-5145-4ba6-af92-265a5ab8227b",
+        "place": "Ynyshir",
+        "allowDetail": true
+      }
+    },
+    "played": 5,
+    "wins": 2,
+    "draws": 2,
+    "losses": 1,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 4,
+    "goalsAgainst": 3,
+    "points": 8,
+    "negativePoints": 0,
+    "position": 8,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695912,
+      "result": "D"
+    },
+    "m2": {
+      "matchId": 107695900,
+      "result": "W"
+    },
+    "m3": {
+      "matchId": 107695891,
+      "result": "L"
+    },
+    "m4": {
+      "matchId": 107695874,
+      "result": "D"
+    },
+    "m5": {
+      "matchId": 107695870,
+      "result": "W"
+    }
+  },
+  {
+    "team": {
+      "id": 28142,
+      "fifaId": "108VJTA",
+      "name": "Caerphilly Athletic FC",
+      "picture": "222174e9-8fec-4e22-b0a5-50544a381803",
+      "place": "Penpedairheol",
+      "allowDetail": true,
+      "parent": {
+        "id": 12180,
+        "fifaId": "108VJTA",
+        "name": "Caerphilly Athletic FC",
+        "picture": "222174e9-8fec-4e22-b0a5-50544a381803",
+        "place": "Penpedairheol",
+        "allowDetail": true
+      }
+    },
+    "played": 6,
+    "wins": 2,
+    "draws": 2,
+    "losses": 2,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 5,
+    "goalsAgainst": 9,
+    "points": 8,
+    "negativePoints": 0,
+    "position": 9,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695916,
+      "result": "D"
+    },
+    "m2": {
+      "matchId": 107695909,
+      "result": "W"
+    },
+    "m3": {
+      "matchId": 107695891,
+      "result": "W"
+    },
+    "m4": {
+      "matchId": 107695888,
+      "result": "L"
+    },
+    "m5": {
+      "matchId": 107695875,
+      "result": "D"
+    }
+  },
+  {
+    "team": {
+      "id": 27690,
+      "fifaId": "108UI9E",
+      "name": "Afan Lido FC",
+      "picture": "b3ae79b9-b195-407a-96cc-c19dfe8a584e",
+      "place": "Port Talbot",
+      "allowDetail": true,
+      "parent": {
+        "id": 10010,
+        "fifaId": "108UI9E",
+        "name": "Afan Lido FC",
+        "picture": "b3ae79b9-b195-407a-96cc-c19dfe8a584e",
+        "place": "Port Talbot",
+        "allowDetail": true
+      }
+    },
+    "played": 7,
+    "wins": 2,
+    "draws": 1,
+    "losses": 4,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 12,
+    "goalsAgainst": 15,
+    "points": 7,
+    "negativePoints": 0,
+    "position": 10,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695914,
+      "result": "L"
+    },
+    "m2": {
+      "matchId": 107695912,
+      "result": "D"
+    },
+    "m3": {
+      "matchId": 107695904,
+      "result": "L"
+    },
+    "m4": {
+      "matchId": 107695896,
+      "result": "W"
+    },
+    "m5": {
+      "matchId": 107695882,
+      "result": "L"
+    }
+  },
+  {
+    "team": {
+      "id": 27776,
+      "fifaId": "108UHSE",
+      "name": "Caerau Ely FC",
+      "picture": "8c5568eb-d71d-4ecb-b1e5-608d61f51f2c",
+      "place": "Cardiff",
+      "allowDetail": true,
+      "parent": {
+        "id": 10038,
+        "fifaId": "108UHSE",
+        "name": "Caerau Ely FC",
+        "picture": "5e49ffb3-22f7-431b-80d5-8c3304b2cafe",
+        "place": "Cardiff",
+        "allowDetail": true
+      }
+    },
+    "played": 6,
+    "wins": 2,
+    "draws": 1,
+    "losses": 3,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 13,
+    "goalsAgainst": 17,
+    "points": 7,
+    "negativePoints": 0,
+    "position": 11,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695907,
+      "result": "W"
+    },
+    "m2": {
+      "matchId": 107695901,
+      "result": "L"
+    },
+    "m3": {
+      "matchId": 107695893,
+      "result": "L"
+    },
+    "m4": {
+      "matchId": 107695889,
+      "result": "W"
+    },
+    "m5": {
+      "matchId": 107695874,
+      "result": "D"
+    }
+  },
+  {
+    "team": {
+      "id": 26660,
+      "fifaId": "108UGAH",
+      "name": "Newport City FC",
+      "picture": "aaa8b1b5-20f0-46f0-8631-c798d884487b",
+      "place": "Newport",
+      "allowDetail": true,
+      "parent": {
+        "id": 10128,
+        "fifaId": "108UGAH",
+        "name": "Newport City FC",
+        "picture": "aaa8b1b5-20f0-46f0-8631-c798d884487b",
+        "place": "Newport",
+        "allowDetail": true
+      }
+    },
+    "played": 5,
+    "wins": 2,
+    "draws": 0,
+    "losses": 3,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 9,
+    "goalsAgainst": 5,
+    "points": 6,
+    "negativePoints": 0,
+    "position": 12,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695900,
+      "result": "L"
+    },
+    "m2": {
+      "matchId": 107695897,
+      "result": "L"
+    },
+    "m3": {
+      "matchId": 107695885,
+      "result": "W"
+    },
+    "m4": {
+      "matchId": 107695881,
+      "result": "L"
+    },
+    "m5": {
+      "matchId": 107695867,
+      "result": "W"
+    }
+  },
+  {
+    "team": {
+      "id": 27708,
+      "fifaId": "108VEWE",
+      "name": "Cardiff Draconians FC",
+      "picture": "99c7a99c-dbec-4c8c-b185-c1d7cb273f41",
+      "place": "Cardiff",
+      "allowDetail": true,
+      "parent": {
+        "id": 10472,
+        "fifaId": "108VEWE",
+        "name": "Cardiff Draconians",
+        "picture": "99c7a99c-dbec-4c8c-b185-c1d7cb273f41",
+        "place": "Cardiff",
+        "allowDetail": true
+      }
+    },
+    "played": 4,
+    "wins": 1,
+    "draws": 1,
+    "losses": 2,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 5,
+    "goalsAgainst": 7,
+    "points": 4,
+    "negativePoints": 0,
+    "position": 13,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695895,
+      "result": "W"
+    },
+    "m2": {
+      "matchId": 107695887,
+      "result": "L"
+    },
+    "m3": {
+      "matchId": 107695875,
+      "result": "D"
+    },
+    "m4": {
+      "matchId": 107695870,
+      "result": "L"
+    },
+    "m5": {}
+  },
+  {
+    "team": {
+      "id": 27594,
+      "fifaId": "108UFSA",
+      "name": "Pontardawe Town FC",
+      "picture": "60c555e5-98b8-443f-8750-7311273fee8a",
+      "place": "Ystalyfera",
+      "allowDetail": true,
+      "parent": {
+        "id": 10164,
+        "fifaId": "108UFSA",
+        "name": "Pontardawe Town FC",
+        "picture": "38564afc-7601-413a-bd92-ed1df04389ee",
+        "place": "Ystalyfera",
+        "allowDetail": true
+      }
+    },
+    "played": 5,
+    "wins": 1,
+    "draws": 0,
+    "losses": 4,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 5,
+    "goalsAgainst": 9,
+    "points": 3,
+    "negativePoints": 0,
+    "position": 14,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695899,
+      "result": "L"
+    },
+    "m2": {
+      "matchId": 107695896,
+      "result": "L"
+    },
+    "m3": {
+      "matchId": 107695885,
+      "result": "L"
+    },
+    "m4": {
+      "matchId": 107695878,
+      "result": "L"
+    },
+    "m5": {
+      "matchId": 107695869,
+      "result": "W"
+    }
+  },
+  {
+    "team": {
+      "id": 27548,
+      "fifaId": "108UTRC",
+      "name": "Llanelli Town AFC",
+      "picture": "5699d6da-e845-480b-a6e3-1c8a75ff4bbd",
+      "place": "Llanelli",
+      "allowDetail": true,
+      "parent": {
+        "id": 12171,
+        "fifaId": "108UTRC",
+        "name": "Llanelli Town",
+        "picture": "5699d6da-e845-480b-a6e3-1c8a75ff4bbd",
+        "place": "Llanelli",
+        "allowDetail": true
+      }
+    },
+    "played": 7,
+    "wins": 0,
+    "draws": 2,
+    "losses": 5,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 6,
+    "goalsAgainst": 20,
+    "points": 2,
+    "negativePoints": 0,
+    "position": 15,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695915,
+      "result": "L"
+    },
+    "m2": {
+      "matchId": 107695906,
+      "result": "L"
+    },
+    "m3": {
+      "matchId": 107695902,
+      "result": "D"
+    },
+    "m4": {
+      "matchId": 107695895,
+      "result": "L"
+    },
+    "m5": {
+      "matchId": 107695883,
+      "result": "L"
+    }
+  },
+  {
+    "team": {
+      "id": 26973,
+      "fifaId": "108UIGH",
+      "name": "Llantwit Major AFC",
+      "picture": "7afaab16-ef79-4cfa-8485-5adf6d1f3a43",
+      "place": "Llantwit Major",
+      "allowDetail": true,
+      "parent": {
+        "id": 10466,
+        "fifaId": "108UIGH",
+        "name": "Llantwit Major",
+        "picture": "7afaab16-ef79-4cfa-8485-5adf6d1f3a43",
+        "place": "Llantwit Major",
+        "allowDetail": true
+      }
+    },
+    "played": 4,
+    "wins": 0,
+    "draws": 0,
+    "losses": 4,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 1,
+    "goalsAgainst": 14,
+    "points": 0,
+    "negativePoints": 0,
+    "position": 16,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695892,
+      "result": "L"
+    },
+    "m2": {
+      "matchId": 107695884,
+      "result": "L"
+    },
+    "m3": {
+      "matchId": 107695880,
+      "result": "L"
+    },
+    "m4": {
+      "matchId": 107695868,
+      "result": "L"
+    },
+    "m5": {}
+  }
+]
