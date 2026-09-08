@@ -1,0 +1,86 @@
+name: Update FAW standings
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    env:
+      FAW_API_KEY: ${{ secrets.FAW_API_KEY }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Download latest FAW standings
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if [ -z "${FAW_API_KEY:-}" ]; then
+            echo "FAW_API_KEY repository secret is missing."
+            exit 1
+          fi
+
+          curl \
+            --fail \
+            --silent \
+            --show-error \
+            --location \
+            "https://api-faw.analyticom.de/api/live/competition/107251920/standings/official" \
+            -H "Accept: */*" \
+            -H "Api_key: ${FAW_API_KEY}" \
+            -H "Dnt: 1" \
+            -H "Origin: https://faw.cymru" \
+            -H "Referer: https://faw.cymru/cymru-leagues/cymru-south/table/" \
+            -H "User-Agent: Mozilla/5.0" \
+            --output standings.new.json
+
+      - name: Validate response
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+
+          with open("standings.new.json", "r", encoding="utf-8") as f:
+              data = json.load(f)
+
+          if not isinstance(data, list) or not data:
+              raise SystemExit("FAW response is not a non-empty standings list.")
+
+          required = {"team", "played", "wins", "draws", "losses", "goalsFor",
+                      "goalsAgainst", "points", "position"}
+
+          for row in data:
+              missing = required.difference(row)
+              if missing:
+                  raise SystemExit(f"Standings row is missing fields: {sorted(missing)}")
+
+          with open("standings.json", "w", encoding="utf-8") as f:
+              json.dump(data, f, ensure_ascii=False, indent=2)
+              f.write("\n")
+          PY
+
+          rm standings.new.json
+
+      - name: Commit updated standings if changed
+        shell: bash
+        run: |
+          if git diff --quiet -- standings.json; then
+            echo "No standings changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add standings.json
+          git commit -m "Update FAW league standings"
+          git push
