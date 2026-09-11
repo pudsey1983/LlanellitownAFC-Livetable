@@ -67,37 +67,37 @@
         "allowDetail": true
       }
     },
-    "played": 5,
+    "played": 6,
     "wins": 4,
     "draws": 1,
-    "losses": 0,
+    "losses": 1,
     "winsAET": 0,
     "winsAP": 0,
     "lossesAP": 0,
     "goalsFor": 16,
-    "goalsAgainst": 10,
+    "goalsAgainst": 11,
     "points": 13,
     "negativePoints": 0,
     "position": 2,
     "highlight": false,
     "m1": {
+      "matchId": 107695924,
+      "result": "L"
+    },
+    "m2": {
       "matchId": 107695905,
       "result": "D"
     },
-    "m2": {
+    "m3": {
       "matchId": 107695890,
       "result": "W"
     },
-    "m3": {
+    "m4": {
       "matchId": 107695887,
       "result": "W"
     },
-    "m4": {
-      "matchId": 107695878,
-      "result": "W"
-    },
     "m5": {
-      "matchId": 107695872,
+      "matchId": 107695878,
       "result": "W"
     }
   },
@@ -307,6 +307,57 @@
   },
   {
     "team": {
+      "id": 27690,
+      "fifaId": "108UI9E",
+      "name": "Afan Lido FC",
+      "picture": "b3ae79b9-b195-407a-96cc-c19dfe8a584e",
+      "place": "Port Talbot",
+      "allowDetail": true,
+      "parent": {
+        "id": 10010,
+        "fifaId": "108UI9E",
+        "name": "Afan Lido FC",
+        "picture": "b3ae79b9-b195-407a-96cc-c19dfe8a584e",
+        "place": "Port Talbot",
+        "allowDetail": true
+      }
+    },
+    "played": 8,
+    "wins": 3,
+    "draws": 1,
+    "losses": 4,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 13,
+    "goalsAgainst": 15,
+    "points": 10,
+    "negativePoints": 0,
+    "position": 7,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695924,
+      "result": "W"
+    },
+    "m2": {
+      "matchId": 107695914,
+      "result": "L"
+    },
+    "m3": {
+      "matchId": 107695912,
+      "result": "D"
+    },
+    "m4": {
+      "matchId": 107695904,
+      "result": "L"
+    },
+    "m5": {
+      "matchId": 107695896,
+      "result": "W"
+    }
+  },
+  {
+    "team": {
       "id": 28587,
       "fifaId": "108UJ0B",
       "name": "Trethomas Bluebirds AFC",
@@ -333,7 +384,7 @@
     "goalsAgainst": 13,
     "points": 9,
     "negativePoints": 0,
-    "position": 7,
+    "position": 8,
     "highlight": false,
     "m1": {
       "matchId": 107695916,
@@ -384,7 +435,7 @@
     "goalsAgainst": 3,
     "points": 8,
     "negativePoints": 0,
-    "position": 8,
+    "position": 9,
     "highlight": false,
     "m1": {
       "matchId": 107695912,
@@ -435,7 +486,7 @@
     "goalsAgainst": 9,
     "points": 8,
     "negativePoints": 0,
-    "position": 9,
+    "position": 10,
     "highlight": false,
     "m1": {
       "matchId": 107695916,
@@ -456,57 +507,6 @@
     "m5": {
       "matchId": 107695875,
       "result": "D"
-    }
-  },
-  {
-    "team": {
-      "id": 27690,
-      "fifaId": "108UI9E",
-      "name": "Afan Lido FC",
-      "picture": "b3ae79b9-b195-407a-96cc-c19dfe8a584e",
-      "place": "Port Talbot",
-      "allowDetail": true,
-      "parent": {
-        "id": 10010,
-        "fifaId": "108UI9E",
-        "name": "Afan Lido FC",
-        "picture": "b3ae79b9-b195-407a-96cc-c19dfe8a584e",
-        "place": "Port Talbot",
-        "allowDetail": true
-      }
-    },
-    "played": 7,
-    "wins": 2,
-    "draws": 1,
-    "losses": 4,
-    "winsAET": 0,
-    "winsAP": 0,
-    "lossesAP": 0,
-    "goalsFor": 12,
-    "goalsAgainst": 15,
-    "points": 7,
-    "negativePoints": 0,
-    "position": 10,
-    "highlight": false,
-    "m1": {
-      "matchId": 107695914,
-      "result": "L"
-    },
-    "m2": {
-      "matchId": 107695912,
-      "result": "D"
-    },
-    "m3": {
-      "matchId": 107695904,
-      "result": "L"
-    },
-    "m4": {
-      "matchId": 107695896,
-      "result": "W"
-    },
-    "m5": {
-      "matchId": 107695882,
-      "result": "L"
     }
   },
   {
