@@ -169,37 +169,37 @@
         "allowDetail": true
       }
     },
-    "played": 7,
+    "played": 8,
     "wins": 4,
     "draws": 1,
-    "losses": 2,
+    "losses": 3,
     "winsAET": 0,
     "winsAP": 0,
     "lossesAP": 0,
-    "goalsFor": 7,
-    "goalsAgainst": 6,
+    "goalsFor": 8,
+    "goalsAgainst": 8,
     "points": 13,
     "negativePoints": 0,
     "position": 4,
     "highlight": false,
     "m1": {
+      "matchId": 107695927,
+      "result": "L"
+    },
+    "m2": {
       "matchId": 107695914,
       "result": "W"
     },
-    "m2": {
+    "m3": {
       "matchId": 107695909,
       "result": "L"
     },
-    "m3": {
+    "m4": {
       "matchId": 107695901,
       "result": "W"
     },
-    "m4": {
-      "matchId": 107695897,
-      "result": "W"
-    },
     "m5": {
-      "matchId": 107695884,
+      "matchId": 107695897,
       "result": "W"
     }
   },
@@ -562,6 +562,57 @@
   },
   {
     "team": {
+      "id": 27708,
+      "fifaId": "108VEWE",
+      "name": "Cardiff Draconians FC",
+      "picture": "99c7a99c-dbec-4c8c-b185-c1d7cb273f41",
+      "place": "Cardiff",
+      "allowDetail": true,
+      "parent": {
+        "id": 10472,
+        "fifaId": "108VEWE",
+        "name": "Cardiff Draconians",
+        "picture": "99c7a99c-dbec-4c8c-b185-c1d7cb273f41",
+        "place": "Cardiff",
+        "allowDetail": true
+      }
+    },
+    "played": 5,
+    "wins": 2,
+    "draws": 1,
+    "losses": 2,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 7,
+    "goalsAgainst": 8,
+    "points": 7,
+    "negativePoints": 0,
+    "position": 12,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695927,
+      "result": "W"
+    },
+    "m2": {
+      "matchId": 107695895,
+      "result": "W"
+    },
+    "m3": {
+      "matchId": 107695887,
+      "result": "L"
+    },
+    "m4": {
+      "matchId": 107695875,
+      "result": "D"
+    },
+    "m5": {
+      "matchId": 107695870,
+      "result": "L"
+    }
+  },
+  {
+    "team": {
       "id": 26660,
       "fifaId": "108UGAH",
       "name": "Newport City FC",
@@ -588,7 +639,7 @@
     "goalsAgainst": 5,
     "points": 6,
     "negativePoints": 0,
-    "position": 12,
+    "position": 13,
     "highlight": false,
     "m1": {
       "matchId": 107695900,
@@ -610,54 +661,6 @@
       "matchId": 107695867,
       "result": "W"
     }
-  },
-  {
-    "team": {
-      "id": 27708,
-      "fifaId": "108VEWE",
-      "name": "Cardiff Draconians FC",
-      "picture": "99c7a99c-dbec-4c8c-b185-c1d7cb273f41",
-      "place": "Cardiff",
-      "allowDetail": true,
-      "parent": {
-        "id": 10472,
-        "fifaId": "108VEWE",
-        "name": "Cardiff Draconians",
-        "picture": "99c7a99c-dbec-4c8c-b185-c1d7cb273f41",
-        "place": "Cardiff",
-        "allowDetail": true
-      }
-    },
-    "played": 4,
-    "wins": 1,
-    "draws": 1,
-    "losses": 2,
-    "winsAET": 0,
-    "winsAP": 0,
-    "lossesAP": 0,
-    "goalsFor": 5,
-    "goalsAgainst": 7,
-    "points": 4,
-    "negativePoints": 0,
-    "position": 13,
-    "highlight": false,
-    "m1": {
-      "matchId": 107695895,
-      "result": "W"
-    },
-    "m2": {
-      "matchId": 107695887,
-      "result": "L"
-    },
-    "m3": {
-      "matchId": 107695875,
-      "result": "D"
-    },
-    "m4": {
-      "matchId": 107695870,
-      "result": "L"
-    },
-    "m5": {}
   },
   {
     "team": {
