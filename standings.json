@@ -103,6 +103,57 @@
   },
   {
     "team": {
+      "id": 46445,
+      "fifaId": "108UDNH",
+      "name": "Treowen Stars AFC",
+      "picture": "722752c0-8be5-4a92-909c-de295225cc5a",
+      "place": "Newbridge",
+      "allowDetail": true,
+      "parent": {
+        "id": 10306,
+        "fifaId": "108UDNH",
+        "name": "Treowen Stars AFC",
+        "picture": "722752c0-8be5-4a92-909c-de295225cc5a",
+        "place": "Newbridge",
+        "allowDetail": true
+      }
+    },
+    "played": 7,
+    "wins": 4,
+    "draws": 1,
+    "losses": 2,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 16,
+    "goalsAgainst": 10,
+    "points": 13,
+    "negativePoints": 0,
+    "position": 3,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695928,
+      "result": "D"
+    },
+    "m2": {
+      "matchId": 107695915,
+      "result": "W"
+    },
+    "m3": {
+      "matchId": 107695907,
+      "result": "L"
+    },
+    "m4": {
+      "matchId": 107695894,
+      "result": "W"
+    },
+    "m5": {
+      "matchId": 107695888,
+      "result": "W"
+    }
+  },
+  {
+    "team": {
       "id": 28616,
       "fifaId": "108UGWH",
       "name": "Pontypridd United",
@@ -129,7 +180,7 @@
     "goalsAgainst": 11,
     "points": 13,
     "negativePoints": 0,
-    "position": 3,
+    "position": 4,
     "highlight": false,
     "m1": {
       "matchId": 107695924,
@@ -180,7 +231,7 @@
     "goalsAgainst": 8,
     "points": 13,
     "negativePoints": 0,
-    "position": 4,
+    "position": 5,
     "highlight": false,
     "m1": {
       "matchId": 107695927,
@@ -200,57 +251,6 @@
     },
     "m5": {
       "matchId": 107695897,
-      "result": "W"
-    }
-  },
-  {
-    "team": {
-      "id": 46445,
-      "fifaId": "108UDNH",
-      "name": "Treowen Stars AFC",
-      "picture": "722752c0-8be5-4a92-909c-de295225cc5a",
-      "place": "Newbridge",
-      "allowDetail": true,
-      "parent": {
-        "id": 10306,
-        "fifaId": "108UDNH",
-        "name": "Treowen Stars AFC",
-        "picture": "722752c0-8be5-4a92-909c-de295225cc5a",
-        "place": "Newbridge",
-        "allowDetail": true
-      }
-    },
-    "played": 6,
-    "wins": 4,
-    "draws": 0,
-    "losses": 2,
-    "winsAET": 0,
-    "winsAP": 0,
-    "lossesAP": 0,
-    "goalsFor": 15,
-    "goalsAgainst": 9,
-    "points": 12,
-    "negativePoints": 0,
-    "position": 5,
-    "highlight": false,
-    "m1": {
-      "matchId": 107695915,
-      "result": "W"
-    },
-    "m2": {
-      "matchId": 107695907,
-      "result": "L"
-    },
-    "m3": {
-      "matchId": 107695894,
-      "result": "W"
-    },
-    "m4": {
-      "matchId": 107695888,
-      "result": "W"
-    },
-    "m5": {
-      "matchId": 107695877,
       "result": "W"
     }
   },
@@ -781,35 +781,38 @@
         "allowDetail": true
       }
     },
-    "played": 4,
+    "played": 5,
     "wins": 0,
-    "draws": 0,
+    "draws": 1,
     "losses": 4,
     "winsAET": 0,
     "winsAP": 0,
     "lossesAP": 0,
-    "goalsFor": 1,
-    "goalsAgainst": 14,
-    "points": 0,
+    "goalsFor": 2,
+    "goalsAgainst": 15,
+    "points": 1,
     "negativePoints": 0,
     "position": 16,
     "highlight": false,
     "m1": {
+      "matchId": 107695928,
+      "result": "D"
+    },
+    "m2": {
       "matchId": 107695892,
       "result": "L"
     },
-    "m2": {
+    "m3": {
       "matchId": 107695884,
       "result": "L"
     },
-    "m3": {
+    "m4": {
       "matchId": 107695880,
       "result": "L"
     },
-    "m4": {
+    "m5": {
       "matchId": 107695868,
       "result": "L"
-    },
-    "m5": {}
+    }
   }
 ]
