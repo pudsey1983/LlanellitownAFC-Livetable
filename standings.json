@@ -307,6 +307,57 @@
   },
   {
     "team": {
+      "id": 27690,
+      "fifaId": "108UI9E",
+      "name": "Afan Lido FC",
+      "picture": "b3ae79b9-b195-407a-96cc-c19dfe8a584e",
+      "place": "Port Talbot",
+      "allowDetail": true,
+      "parent": {
+        "id": 10010,
+        "fifaId": "108UI9E",
+        "name": "Afan Lido FC",
+        "picture": "b3ae79b9-b195-407a-96cc-c19dfe8a584e",
+        "place": "Port Talbot",
+        "allowDetail": true
+      }
+    },
+    "played": 9,
+    "wins": 3,
+    "draws": 2,
+    "losses": 4,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 13,
+    "goalsAgainst": 15,
+    "points": 11,
+    "negativePoints": 0,
+    "position": 7,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695931,
+      "result": "D"
+    },
+    "m2": {
+      "matchId": 107695924,
+      "result": "W"
+    },
+    "m3": {
+      "matchId": 107695914,
+      "result": "L"
+    },
+    "m4": {
+      "matchId": 107695912,
+      "result": "D"
+    },
+    "m5": {
+      "matchId": 107695904,
+      "result": "L"
+    }
+  },
+  {
+    "team": {
       "id": 27776,
       "fifaId": "108UHSE",
       "name": "Caerau Ely FC",
@@ -333,7 +384,7 @@
     "goalsAgainst": 17,
     "points": 10,
     "negativePoints": 0,
-    "position": 7,
+    "position": 8,
     "highlight": false,
     "m1": {
       "matchId": 107695922,
@@ -353,57 +404,6 @@
     },
     "m5": {
       "matchId": 107695889,
-      "result": "W"
-    }
-  },
-  {
-    "team": {
-      "id": 27690,
-      "fifaId": "108UI9E",
-      "name": "Afan Lido FC",
-      "picture": "b3ae79b9-b195-407a-96cc-c19dfe8a584e",
-      "place": "Port Talbot",
-      "allowDetail": true,
-      "parent": {
-        "id": 10010,
-        "fifaId": "108UI9E",
-        "name": "Afan Lido FC",
-        "picture": "b3ae79b9-b195-407a-96cc-c19dfe8a584e",
-        "place": "Port Talbot",
-        "allowDetail": true
-      }
-    },
-    "played": 8,
-    "wins": 3,
-    "draws": 1,
-    "losses": 4,
-    "winsAET": 0,
-    "winsAP": 0,
-    "lossesAP": 0,
-    "goalsFor": 13,
-    "goalsAgainst": 15,
-    "points": 10,
-    "negativePoints": 0,
-    "position": 8,
-    "highlight": false,
-    "m1": {
-      "matchId": 107695924,
-      "result": "W"
-    },
-    "m2": {
-      "matchId": 107695914,
-      "result": "L"
-    },
-    "m3": {
-      "matchId": 107695912,
-      "result": "D"
-    },
-    "m4": {
-      "matchId": 107695904,
-      "result": "L"
-    },
-    "m5": {
-      "matchId": 107695896,
       "result": "W"
     }
   },
@@ -562,6 +562,57 @@
   },
   {
     "team": {
+      "id": 26660,
+      "fifaId": "108UGAH",
+      "name": "Newport City FC",
+      "picture": "aaa8b1b5-20f0-46f0-8631-c798d884487b",
+      "place": "Newport",
+      "allowDetail": true,
+      "parent": {
+        "id": 10128,
+        "fifaId": "108UGAH",
+        "name": "Newport City FC",
+        "picture": "aaa8b1b5-20f0-46f0-8631-c798d884487b",
+        "place": "Newport",
+        "allowDetail": true
+      }
+    },
+    "played": 6,
+    "wins": 2,
+    "draws": 1,
+    "losses": 3,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 9,
+    "goalsAgainst": 5,
+    "points": 7,
+    "negativePoints": 0,
+    "position": 12,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695931,
+      "result": "D"
+    },
+    "m2": {
+      "matchId": 107695900,
+      "result": "L"
+    },
+    "m3": {
+      "matchId": 107695897,
+      "result": "L"
+    },
+    "m4": {
+      "matchId": 107695885,
+      "result": "W"
+    },
+    "m5": {
+      "matchId": 107695881,
+      "result": "L"
+    }
+  },
+  {
+    "team": {
       "id": 27708,
       "fifaId": "108VEWE",
       "name": "Cardiff Draconians FC",
@@ -588,7 +639,7 @@
     "goalsAgainst": 8,
     "points": 7,
     "negativePoints": 0,
-    "position": 12,
+    "position": 13,
     "highlight": false,
     "m1": {
       "matchId": 107695927,
@@ -609,57 +660,6 @@
     "m5": {
       "matchId": 107695870,
       "result": "L"
-    }
-  },
-  {
-    "team": {
-      "id": 26660,
-      "fifaId": "108UGAH",
-      "name": "Newport City FC",
-      "picture": "aaa8b1b5-20f0-46f0-8631-c798d884487b",
-      "place": "Newport",
-      "allowDetail": true,
-      "parent": {
-        "id": 10128,
-        "fifaId": "108UGAH",
-        "name": "Newport City FC",
-        "picture": "aaa8b1b5-20f0-46f0-8631-c798d884487b",
-        "place": "Newport",
-        "allowDetail": true
-      }
-    },
-    "played": 5,
-    "wins": 2,
-    "draws": 0,
-    "losses": 3,
-    "winsAET": 0,
-    "winsAP": 0,
-    "lossesAP": 0,
-    "goalsFor": 9,
-    "goalsAgainst": 5,
-    "points": 6,
-    "negativePoints": 0,
-    "position": 13,
-    "highlight": false,
-    "m1": {
-      "matchId": 107695900,
-      "result": "L"
-    },
-    "m2": {
-      "matchId": 107695897,
-      "result": "L"
-    },
-    "m3": {
-      "matchId": 107695885,
-      "result": "W"
-    },
-    "m4": {
-      "matchId": 107695881,
-      "result": "L"
-    },
-    "m5": {
-      "matchId": 107695867,
-      "result": "W"
     }
   },
   {
