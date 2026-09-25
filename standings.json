@@ -103,6 +103,57 @@
   },
   {
     "team": {
+      "id": 28616,
+      "fifaId": "108UGWH",
+      "name": "Pontypridd United",
+      "picture": "125f3762-f12f-4da5-9a3e-b8b3075980d9",
+      "place": "Pontypridd",
+      "allowDetail": true,
+      "parent": {
+        "id": 10092,
+        "fifaId": "108UGWH",
+        "name": "Pontypridd United",
+        "picture": "125f3762-f12f-4da5-9a3e-b8b3075980d9",
+        "place": "Pontypridd",
+        "allowDetail": true
+      }
+    },
+    "played": 7,
+    "wins": 5,
+    "draws": 1,
+    "losses": 1,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 18,
+    "goalsAgainst": 12,
+    "points": 16,
+    "negativePoints": 0,
+    "position": 3,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695930,
+      "result": "W"
+    },
+    "m2": {
+      "matchId": 107695924,
+      "result": "L"
+    },
+    "m3": {
+      "matchId": 107695905,
+      "result": "D"
+    },
+    "m4": {
+      "matchId": 107695890,
+      "result": "W"
+    },
+    "m5": {
+      "matchId": 107695887,
+      "result": "W"
+    }
+  },
+  {
+    "team": {
       "id": 28550,
       "fifaId": "108UHLH",
       "name": "Carmarthen Town FC",
@@ -129,7 +180,7 @@
     "goalsAgainst": 17,
     "points": 14,
     "negativePoints": 0,
-    "position": 3,
+    "position": 4,
     "highlight": false,
     "m1": {
       "matchId": 107695936,
@@ -180,7 +231,7 @@
     "goalsAgainst": 10,
     "points": 13,
     "negativePoints": 0,
-    "position": 4,
+    "position": 5,
     "highlight": false,
     "m1": {
       "matchId": 107695928,
@@ -200,57 +251,6 @@
     },
     "m5": {
       "matchId": 107695888,
-      "result": "W"
-    }
-  },
-  {
-    "team": {
-      "id": 28616,
-      "fifaId": "108UGWH",
-      "name": "Pontypridd United",
-      "picture": "125f3762-f12f-4da5-9a3e-b8b3075980d9",
-      "place": "Pontypridd",
-      "allowDetail": true,
-      "parent": {
-        "id": 10092,
-        "fifaId": "108UGWH",
-        "name": "Pontypridd United",
-        "picture": "125f3762-f12f-4da5-9a3e-b8b3075980d9",
-        "place": "Pontypridd",
-        "allowDetail": true
-      }
-    },
-    "played": 6,
-    "wins": 4,
-    "draws": 1,
-    "losses": 1,
-    "winsAET": 0,
-    "winsAP": 0,
-    "lossesAP": 0,
-    "goalsFor": 16,
-    "goalsAgainst": 11,
-    "points": 13,
-    "negativePoints": 0,
-    "position": 5,
-    "highlight": false,
-    "m1": {
-      "matchId": 107695924,
-      "result": "L"
-    },
-    "m2": {
-      "matchId": 107695905,
-      "result": "D"
-    },
-    "m3": {
-      "matchId": 107695890,
-      "result": "W"
-    },
-    "m4": {
-      "matchId": 107695887,
-      "result": "W"
-    },
-    "m5": {
-      "matchId": 107695878,
       "result": "W"
     }
   },
@@ -526,38 +526,38 @@
         "allowDetail": true
       }
     },
-    "played": 7,
+    "played": 8,
     "wins": 2,
     "draws": 2,
-    "losses": 3,
+    "losses": 4,
     "winsAET": 0,
     "winsAP": 0,
     "lossesAP": 0,
-    "goalsFor": 7,
-    "goalsAgainst": 12,
+    "goalsFor": 8,
+    "goalsAgainst": 14,
     "points": 8,
     "negativePoints": 0,
     "position": 11,
     "highlight": false,
     "m1": {
-      "matchId": 107695925,
+      "matchId": 107695930,
       "result": "L"
     },
     "m2": {
+      "matchId": 107695925,
+      "result": "L"
+    },
+    "m3": {
       "matchId": 107695916,
       "result": "D"
     },
-    "m3": {
+    "m4": {
       "matchId": 107695909,
       "result": "W"
     },
-    "m4": {
+    "m5": {
       "matchId": 107695891,
       "result": "W"
-    },
-    "m5": {
-      "matchId": 107695888,
-      "result": "L"
     }
   },
   {
