@@ -16,37 +16,37 @@
         "allowDetail": true
       }
     },
-    "played": 6,
+    "played": 7,
     "wins": 5,
-    "draws": 1,
+    "draws": 2,
     "losses": 0,
     "winsAET": 0,
     "winsAP": 0,
     "lossesAP": 0,
     "goalsFor": 22,
     "goalsAgainst": 5,
-    "points": 16,
+    "points": 17,
     "negativePoints": 0,
     "position": 1,
     "highlight": false,
     "m1": {
+      "matchId": 107695932,
+      "result": "D"
+    },
+    "m2": {
       "matchId": 107695929,
       "result": "W"
     },
-    "m2": {
+    "m3": {
       "matchId": 107695905,
       "result": "D"
     },
-    "m3": {
+    "m4": {
       "matchId": 107695893,
       "result": "W"
     },
-    "m4": {
-      "matchId": 107695883,
-      "result": "W"
-    },
     "m5": {
-      "matchId": 107695879,
+      "matchId": 107695883,
       "result": "W"
     }
   },
@@ -67,37 +67,88 @@
         "allowDetail": true
       }
     },
-    "played": 6,
+    "played": 7,
     "wins": 5,
-    "draws": 0,
+    "draws": 1,
     "losses": 1,
     "winsAET": 0,
     "winsAP": 0,
     "lossesAP": 0,
     "goalsFor": 19,
     "goalsAgainst": 7,
-    "points": 15,
+    "points": 16,
     "negativePoints": 0,
     "position": 2,
     "highlight": false,
     "m1": {
+      "matchId": 107695932,
+      "result": "D"
+    },
+    "m2": {
       "matchId": 107695925,
       "result": "W"
     },
-    "m2": {
+    "m3": {
       "matchId": 107695906,
       "result": "W"
     },
-    "m3": {
+    "m4": {
       "matchId": 107695899,
       "result": "W"
     },
-    "m4": {
+    "m5": {
       "matchId": 107695892,
       "result": "W"
+    }
+  },
+  {
+    "team": {
+      "id": 28550,
+      "fifaId": "108UHLH",
+      "name": "Carmarthen Town FC",
+      "picture": "3c8d39aa-93e5-4e21-9353-832a187792bc",
+      "place": "Carmarthen",
+      "allowDetail": true,
+      "parent": {
+        "id": 10048,
+        "fifaId": "108UHLH",
+        "name": "Carmarthen Town FC",
+        "picture": "3c8d39aa-93e5-4e21-9353-832a187792bc",
+        "place": "Carmarthen",
+        "allowDetail": true
+      }
+    },
+    "played": 8,
+    "wins": 4,
+    "draws": 2,
+    "losses": 2,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 19,
+    "goalsAgainst": 17,
+    "points": 14,
+    "negativePoints": 0,
+    "position": 3,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695936,
+      "result": "W"
+    },
+    "m2": {
+      "matchId": 107695926,
+      "result": "D"
+    },
+    "m3": {
+      "matchId": 107695910,
+      "result": "L"
+    },
+    "m4": {
+      "matchId": 107695902,
+      "result": "D"
     },
     "m5": {
-      "matchId": 107695877,
+      "matchId": 107695894,
       "result": "L"
     }
   },
@@ -129,7 +180,7 @@
     "goalsAgainst": 10,
     "points": 13,
     "negativePoints": 0,
-    "position": 3,
+    "position": 4,
     "highlight": false,
     "m1": {
       "matchId": 107695928,
@@ -180,7 +231,7 @@
     "goalsAgainst": 11,
     "points": 13,
     "negativePoints": 0,
-    "position": 4,
+    "position": 5,
     "highlight": false,
     "m1": {
       "matchId": 107695924,
@@ -220,88 +271,37 @@
         "allowDetail": true
       }
     },
-    "played": 8,
+    "played": 9,
     "wins": 4,
     "draws": 1,
-    "losses": 3,
+    "losses": 4,
     "winsAET": 0,
     "winsAP": 0,
     "lossesAP": 0,
-    "goalsFor": 8,
-    "goalsAgainst": 8,
+    "goalsFor": 9,
+    "goalsAgainst": 10,
     "points": 13,
-    "negativePoints": 0,
-    "position": 5,
-    "highlight": false,
-    "m1": {
-      "matchId": 107695927,
-      "result": "L"
-    },
-    "m2": {
-      "matchId": 107695914,
-      "result": "W"
-    },
-    "m3": {
-      "matchId": 107695909,
-      "result": "L"
-    },
-    "m4": {
-      "matchId": 107695901,
-      "result": "W"
-    },
-    "m5": {
-      "matchId": 107695897,
-      "result": "W"
-    }
-  },
-  {
-    "team": {
-      "id": 28550,
-      "fifaId": "108UHLH",
-      "name": "Carmarthen Town FC",
-      "picture": "3c8d39aa-93e5-4e21-9353-832a187792bc",
-      "place": "Carmarthen",
-      "allowDetail": true,
-      "parent": {
-        "id": 10048,
-        "fifaId": "108UHLH",
-        "name": "Carmarthen Town FC",
-        "picture": "3c8d39aa-93e5-4e21-9353-832a187792bc",
-        "place": "Carmarthen",
-        "allowDetail": true
-      }
-    },
-    "played": 7,
-    "wins": 3,
-    "draws": 2,
-    "losses": 2,
-    "winsAET": 0,
-    "winsAP": 0,
-    "lossesAP": 0,
-    "goalsFor": 17,
-    "goalsAgainst": 16,
-    "points": 11,
     "negativePoints": 0,
     "position": 6,
     "highlight": false,
     "m1": {
-      "matchId": 107695926,
-      "result": "D"
+      "matchId": 107695936,
+      "result": "L"
     },
     "m2": {
-      "matchId": 107695910,
+      "matchId": 107695927,
       "result": "L"
     },
     "m3": {
-      "matchId": 107695902,
-      "result": "D"
+      "matchId": 107695914,
+      "result": "W"
     },
     "m4": {
-      "matchId": 107695894,
+      "matchId": 107695909,
       "result": "L"
     },
     "m5": {
-      "matchId": 107695882,
+      "matchId": 107695901,
       "result": "W"
     }
   },
