@@ -358,6 +358,108 @@
   },
   {
     "team": {
+      "id": 28587,
+      "fifaId": "108UJ0B",
+      "name": "Trethomas Bluebirds AFC",
+      "picture": "11b7ab89-b536-4520-a452-3d5a4e0eccee",
+      "place": "Caerphilly",
+      "allowDetail": true,
+      "parent": {
+        "id": 10426,
+        "fifaId": "108UJ0B",
+        "name": "Trethomas Bluebirds AFC",
+        "picture": "11b7ab89-b536-4520-a452-3d5a4e0eccee",
+        "place": "Caerphilly",
+        "allowDetail": true
+      }
+    },
+    "played": 8,
+    "wins": 2,
+    "draws": 4,
+    "losses": 2,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 15,
+    "goalsAgainst": 14,
+    "points": 10,
+    "negativePoints": 0,
+    "position": 8,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695935,
+      "result": "D"
+    },
+    "m2": {
+      "matchId": 107695916,
+      "result": "D"
+    },
+    "m3": {
+      "matchId": 107695910,
+      "result": "W"
+    },
+    "m4": {
+      "matchId": 107695904,
+      "result": "W"
+    },
+    "m5": {
+      "matchId": 107695890,
+      "result": "L"
+    }
+  },
+  {
+    "team": {
+      "id": 28620,
+      "fifaId": "108UMJG",
+      "name": "Ynyshir Albions FC",
+      "picture": "3d8f4997-67a5-4aae-86a1-9b2adc104d2a",
+      "place": "Ynyshir",
+      "allowDetail": true,
+      "parent": {
+        "id": 10566,
+        "fifaId": "108UMJG",
+        "name": "Ynyshir Albions FC",
+        "picture": "eff638d3-5145-4ba6-af92-265a5ab8227b",
+        "place": "Ynyshir",
+        "allowDetail": true
+      }
+    },
+    "played": 7,
+    "wins": 2,
+    "draws": 4,
+    "losses": 1,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 7,
+    "goalsAgainst": 6,
+    "points": 10,
+    "negativePoints": 0,
+    "position": 9,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695935,
+      "result": "D"
+    },
+    "m2": {
+      "matchId": 107695926,
+      "result": "D"
+    },
+    "m3": {
+      "matchId": 107695912,
+      "result": "D"
+    },
+    "m4": {
+      "matchId": 107695900,
+      "result": "W"
+    },
+    "m5": {
+      "matchId": 107695891,
+      "result": "L"
+    }
+  },
+  {
+    "team": {
       "id": 27776,
       "fifaId": "108UHSE",
       "name": "Caerau Ely FC",
@@ -384,7 +486,7 @@
     "goalsAgainst": 17,
     "points": 10,
     "negativePoints": 0,
-    "position": 8,
+    "position": 10,
     "highlight": false,
     "m1": {
       "matchId": 107695922,
@@ -405,108 +507,6 @@
     "m5": {
       "matchId": 107695889,
       "result": "W"
-    }
-  },
-  {
-    "team": {
-      "id": 28587,
-      "fifaId": "108UJ0B",
-      "name": "Trethomas Bluebirds AFC",
-      "picture": "11b7ab89-b536-4520-a452-3d5a4e0eccee",
-      "place": "Caerphilly",
-      "allowDetail": true,
-      "parent": {
-        "id": 10426,
-        "fifaId": "108UJ0B",
-        "name": "Trethomas Bluebirds AFC",
-        "picture": "11b7ab89-b536-4520-a452-3d5a4e0eccee",
-        "place": "Caerphilly",
-        "allowDetail": true
-      }
-    },
-    "played": 7,
-    "wins": 2,
-    "draws": 3,
-    "losses": 2,
-    "winsAET": 0,
-    "winsAP": 0,
-    "lossesAP": 0,
-    "goalsFor": 14,
-    "goalsAgainst": 13,
-    "points": 9,
-    "negativePoints": 0,
-    "position": 9,
-    "highlight": false,
-    "m1": {
-      "matchId": 107695916,
-      "result": "D"
-    },
-    "m2": {
-      "matchId": 107695910,
-      "result": "W"
-    },
-    "m3": {
-      "matchId": 107695904,
-      "result": "W"
-    },
-    "m4": {
-      "matchId": 107695890,
-      "result": "L"
-    },
-    "m5": {
-      "matchId": 107695889,
-      "result": "L"
-    }
-  },
-  {
-    "team": {
-      "id": 28620,
-      "fifaId": "108UMJG",
-      "name": "Ynyshir Albions FC",
-      "picture": "3d8f4997-67a5-4aae-86a1-9b2adc104d2a",
-      "place": "Ynyshir",
-      "allowDetail": true,
-      "parent": {
-        "id": 10566,
-        "fifaId": "108UMJG",
-        "name": "Ynyshir Albions FC",
-        "picture": "eff638d3-5145-4ba6-af92-265a5ab8227b",
-        "place": "Ynyshir",
-        "allowDetail": true
-      }
-    },
-    "played": 6,
-    "wins": 2,
-    "draws": 3,
-    "losses": 1,
-    "winsAET": 0,
-    "winsAP": 0,
-    "lossesAP": 0,
-    "goalsFor": 6,
-    "goalsAgainst": 5,
-    "points": 9,
-    "negativePoints": 0,
-    "position": 10,
-    "highlight": false,
-    "m1": {
-      "matchId": 107695926,
-      "result": "D"
-    },
-    "m2": {
-      "matchId": 107695912,
-      "result": "D"
-    },
-    "m3": {
-      "matchId": 107695900,
-      "result": "W"
-    },
-    "m4": {
-      "matchId": 107695891,
-      "result": "L"
-    },
-    "m5": {
-      "matchId": 107695874,
-      "result": "D"
     }
   },
   {
