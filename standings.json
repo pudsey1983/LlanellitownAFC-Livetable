@@ -205,57 +205,6 @@
   },
   {
     "team": {
-      "id": 46445,
-      "fifaId": "108UDNH",
-      "name": "Treowen Stars AFC",
-      "picture": "722752c0-8be5-4a92-909c-de295225cc5a",
-      "place": "Newbridge",
-      "allowDetail": true,
-      "parent": {
-        "id": 10306,
-        "fifaId": "108UDNH",
-        "name": "Treowen Stars AFC",
-        "picture": "722752c0-8be5-4a92-909c-de295225cc5a",
-        "place": "Newbridge",
-        "allowDetail": true
-      }
-    },
-    "played": 7,
-    "wins": 4,
-    "draws": 1,
-    "losses": 2,
-    "winsAET": 0,
-    "winsAP": 0,
-    "lossesAP": 0,
-    "goalsFor": 16,
-    "goalsAgainst": 10,
-    "points": 13,
-    "negativePoints": 0,
-    "position": 5,
-    "highlight": false,
-    "m1": {
-      "matchId": 107695928,
-      "result": "D"
-    },
-    "m2": {
-      "matchId": 107695915,
-      "result": "W"
-    },
-    "m3": {
-      "matchId": 107695907,
-      "result": "L"
-    },
-    "m4": {
-      "matchId": 107695894,
-      "result": "W"
-    },
-    "m5": {
-      "matchId": 107695888,
-      "result": "W"
-    }
-  },
-  {
-    "team": {
       "id": 27776,
       "fifaId": "108UHSE",
       "name": "Caerau Ely FC",
@@ -282,7 +231,7 @@
     "goalsAgainst": 18,
     "points": 13,
     "negativePoints": 0,
-    "position": 6,
+    "position": 5,
     "highlight": false,
     "m1": {
       "matchId": 107695937,
@@ -303,6 +252,57 @@
     "m5": {
       "matchId": 107695893,
       "result": "L"
+    }
+  },
+  {
+    "team": {
+      "id": 46445,
+      "fifaId": "108UDNH",
+      "name": "Treowen Stars AFC",
+      "picture": "722752c0-8be5-4a92-909c-de295225cc5a",
+      "place": "Newbridge",
+      "allowDetail": true,
+      "parent": {
+        "id": 10306,
+        "fifaId": "108UDNH",
+        "name": "Treowen Stars AFC",
+        "picture": "722752c0-8be5-4a92-909c-de295225cc5a",
+        "place": "Newbridge",
+        "allowDetail": true
+      }
+    },
+    "played": 8,
+    "wins": 4,
+    "draws": 1,
+    "losses": 3,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 17,
+    "goalsAgainst": 16,
+    "points": 13,
+    "negativePoints": 0,
+    "position": 6,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695934,
+      "result": "L"
+    },
+    "m2": {
+      "matchId": 107695928,
+      "result": "D"
+    },
+    "m3": {
+      "matchId": 107695915,
+      "result": "W"
+    },
+    "m4": {
+      "matchId": 107695907,
+      "result": "L"
+    },
+    "m5": {
+      "matchId": 107695894,
+      "result": "W"
     }
   },
   {
@@ -664,6 +664,57 @@
   },
   {
     "team": {
+      "id": 27594,
+      "fifaId": "108UFSA",
+      "name": "Pontardawe Town FC",
+      "picture": "60c555e5-98b8-443f-8750-7311273fee8a",
+      "place": "Ystalyfera",
+      "allowDetail": true,
+      "parent": {
+        "id": 10164,
+        "fifaId": "108UFSA",
+        "name": "Pontardawe Town FC",
+        "picture": "38564afc-7601-413a-bd92-ed1df04389ee",
+        "place": "Ystalyfera",
+        "allowDetail": true
+      }
+    },
+    "played": 7,
+    "wins": 2,
+    "draws": 0,
+    "losses": 5,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 11,
+    "goalsAgainst": 14,
+    "points": 6,
+    "negativePoints": 0,
+    "position": 14,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695934,
+      "result": "W"
+    },
+    "m2": {
+      "matchId": 107695929,
+      "result": "L"
+    },
+    "m3": {
+      "matchId": 107695899,
+      "result": "L"
+    },
+    "m4": {
+      "matchId": 107695896,
+      "result": "L"
+    },
+    "m5": {
+      "matchId": 107695885,
+      "result": "L"
+    }
+  },
+  {
+    "team": {
       "id": 26973,
       "fifaId": "108UIGH",
       "name": "Llantwit Major AFC",
@@ -690,7 +741,7 @@
     "goalsAgainst": 15,
     "points": 4,
     "negativePoints": 0,
-    "position": 14,
+    "position": 15,
     "highlight": false,
     "m1": {
       "matchId": 107695933,
@@ -710,57 +761,6 @@
     },
     "m5": {
       "matchId": 107695880,
-      "result": "L"
-    }
-  },
-  {
-    "team": {
-      "id": 27594,
-      "fifaId": "108UFSA",
-      "name": "Pontardawe Town FC",
-      "picture": "60c555e5-98b8-443f-8750-7311273fee8a",
-      "place": "Ystalyfera",
-      "allowDetail": true,
-      "parent": {
-        "id": 10164,
-        "fifaId": "108UFSA",
-        "name": "Pontardawe Town FC",
-        "picture": "38564afc-7601-413a-bd92-ed1df04389ee",
-        "place": "Ystalyfera",
-        "allowDetail": true
-      }
-    },
-    "played": 6,
-    "wins": 1,
-    "draws": 0,
-    "losses": 5,
-    "winsAET": 0,
-    "winsAP": 0,
-    "lossesAP": 0,
-    "goalsFor": 5,
-    "goalsAgainst": 13,
-    "points": 3,
-    "negativePoints": 0,
-    "position": 15,
-    "highlight": false,
-    "m1": {
-      "matchId": 107695929,
-      "result": "L"
-    },
-    "m2": {
-      "matchId": 107695899,
-      "result": "L"
-    },
-    "m3": {
-      "matchId": 107695896,
-      "result": "L"
-    },
-    "m4": {
-      "matchId": 107695885,
-      "result": "L"
-    },
-    "m5": {
-      "matchId": 107695878,
       "result": "L"
     }
   },
