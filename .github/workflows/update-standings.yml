@@ -53,17 +53,24 @@ jobs:
           echo "FAW API HTTP response: ${HTTP_CODE}"
 
           if [ "${HTTP_CODE}" = "525" ]; then
-          echo "FAW API returned HTTP 525 - SSL handshake failure at the FAW/Analyticom server."
-          echo "Keeping the existing standings.json."
-          rm -f standings.new.json
-          exit 0
+            echo "FAW API returned HTTP 525 - SSL handshake failure at the FAW/Analyticom server."
+            echo "Keeping the existing standings."
+
+            rm -f standings.new.json
+
+            if [ -f standings.json ]; then
+              cp standings.json standings.new.json
+            else
+              echo "No existing standings.json is available."
+              exit 22
+            fi
           fi
 
-         if [ "${HTTP_CODE}" -lt 200 ] || [ "${HTTP_CODE}" -ge 300 ]; then
-         echo "FAW API request failed with HTTP ${HTTP_CODE}"
-         rm -f standings.new.json
-         exit 22
-         fi
+          if [ "${HTTP_CODE}" != "525" ] && \
+             { [ "${HTTP_CODE}" -lt 200 ] || [ "${HTTP_CODE}" -ge 300 ]; }; then
+            echo "FAW API request failed with HTTP ${HTTP_CODE}"
+            rm -f standings.new.json
+            exit 22
           fi
 
           if [ ! -s standings.new.json ]; then
@@ -72,9 +79,7 @@ jobs:
             exit 1
           fi
 
-          mv standings.new.json standings.json
-
-          echo "FAW standings downloaded successfully."
+          echo "Standings file ready for validation."
 
       - name: Validate response
         shell: bash
@@ -88,20 +93,31 @@ jobs:
           if not isinstance(data, list) or not data:
               raise SystemExit("FAW response is not a non-empty standings list.")
 
-          required = {"team", "played", "wins", "draws", "losses", "goalsFor",
-                      "goalsAgainst", "points", "position"}
+          required = {
+              "team",
+              "played",
+              "wins",
+              "draws",
+              "losses",
+              "goalsFor",
+              "goalsAgainst",
+              "points",
+              "position"
+          }
 
           for row in data:
               missing = required.difference(row)
               if missing:
-                  raise SystemExit(f"Standings row is missing fields: {sorted(missing)}")
+                  raise SystemExit(
+                      f"Standings row is missing fields: {sorted(missing)}"
+                  )
 
           with open("standings.json", "w", encoding="utf-8") as f:
               json.dump(data, f, ensure_ascii=False, indent=2)
               f.write("\n")
           PY
 
-          rm standings.new.json
+          rm -f standings.new.json
 
       - name: Commit updated standings if changed
         shell: bash
