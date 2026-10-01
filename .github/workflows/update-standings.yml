@@ -19,8 +19,10 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Download latest FAW standings
+      -       - name: Download latest FAW standings
         shell: bash
+        env:
+          FAW_API_KEY: ${{ secrets.FAW_API_KEY }}
         run: |
           set -euo pipefail
 
@@ -29,11 +31,16 @@ jobs:
             exit 1
           fi
 
-          curl \
-            --fail \
+          echo "Downloading latest FAW standings..."
+
+          HTTP_CODE=$(curl \
             --silent \
             --show-error \
             --location \
+            --retry 4 \
+            --retry-delay 10 \
+            --retry-all-errors \
+            --write-out "%{http_code}" \
             "https://api-faw.analyticom.de/api/live/competition/107251920/standings/official" \
             -H "Accept: */*" \
             -H "Api_key: ${FAW_API_KEY}" \
@@ -41,7 +48,25 @@ jobs:
             -H "Origin: https://faw.cymru" \
             -H "Referer: https://faw.cymru/cymru-leagues/cymru-south/table/" \
             -H "User-Agent: Mozilla/5.0" \
-            --output standings.new.json
+            --output standings.new.json)
+
+          echo "FAW API HTTP response: ${HTTP_CODE}"
+
+          if [ "${HTTP_CODE}" -lt 200 ] || [ "${HTTP_CODE}" -ge 300 ]; then
+            echo "FAW API request failed with HTTP ${HTTP_CODE}"
+            rm -f standings.new.json
+            exit 22
+          fi
+
+          if [ ! -s standings.new.json ]; then
+            echo "FAW API returned an empty standings file."
+            rm -f standings.new.json
+            exit 1
+          fi
+
+          mv standings.new.json standings.json
+
+          echo "FAW standings downloaded successfully."
 
       - name: Validate response
         shell: bash
