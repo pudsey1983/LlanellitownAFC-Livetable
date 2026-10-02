@@ -205,6 +205,57 @@
   },
   {
     "team": {
+      "id": 27755,
+      "fifaId": "108VF3F",
+      "name": "Baglan Dragons FC",
+      "picture": "9b174d54-3b95-4809-b6f2-d0c371807344",
+      "place": "Port Talbot",
+      "allowDetail": true,
+      "parent": {
+        "id": 10462,
+        "fifaId": "108VF3F",
+        "name": "Baglan Dragons FC",
+        "picture": "9b174d54-3b95-4809-b6f2-d0c371807344",
+        "place": "Port Talbot",
+        "allowDetail": true
+      }
+    },
+    "played": 10,
+    "wins": 5,
+    "draws": 1,
+    "losses": 4,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 11,
+    "goalsAgainst": 11,
+    "points": 16,
+    "negativePoints": 0,
+    "position": 5,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695939,
+      "result": "W"
+    },
+    "m2": {
+      "matchId": 107695936,
+      "result": "L"
+    },
+    "m3": {
+      "matchId": 107695927,
+      "result": "L"
+    },
+    "m4": {
+      "matchId": 107695914,
+      "result": "W"
+    },
+    "m5": {
+      "matchId": 107695909,
+      "result": "L"
+    }
+  },
+  {
+    "team": {
       "id": 28550,
       "fifaId": "108UHLH",
       "name": "Carmarthen Town FC",
@@ -231,7 +282,7 @@
     "goalsAgainst": 19,
     "points": 14,
     "negativePoints": 0,
-    "position": 5,
+    "position": 6,
     "highlight": false,
     "m1": {
       "matchId": 107695938,
@@ -282,7 +333,7 @@
     "goalsAgainst": 16,
     "points": 13,
     "negativePoints": 0,
-    "position": 6,
+    "position": 7,
     "highlight": false,
     "m1": {
       "matchId": 107695934,
@@ -302,57 +353,6 @@
     },
     "m5": {
       "matchId": 107695894,
-      "result": "W"
-    }
-  },
-  {
-    "team": {
-      "id": 27755,
-      "fifaId": "108VF3F",
-      "name": "Baglan Dragons FC",
-      "picture": "9b174d54-3b95-4809-b6f2-d0c371807344",
-      "place": "Port Talbot",
-      "allowDetail": true,
-      "parent": {
-        "id": 10462,
-        "fifaId": "108VF3F",
-        "name": "Baglan Dragons FC",
-        "picture": "9b174d54-3b95-4809-b6f2-d0c371807344",
-        "place": "Port Talbot",
-        "allowDetail": true
-      }
-    },
-    "played": 9,
-    "wins": 4,
-    "draws": 1,
-    "losses": 4,
-    "winsAET": 0,
-    "winsAP": 0,
-    "lossesAP": 0,
-    "goalsFor": 9,
-    "goalsAgainst": 10,
-    "points": 13,
-    "negativePoints": 0,
-    "position": 7,
-    "highlight": false,
-    "m1": {
-      "matchId": 107695936,
-      "result": "L"
-    },
-    "m2": {
-      "matchId": 107695927,
-      "result": "L"
-    },
-    "m3": {
-      "matchId": 107695914,
-      "result": "W"
-    },
-    "m4": {
-      "matchId": 107695909,
-      "result": "L"
-    },
-    "m5": {
-      "matchId": 107695901,
       "result": "W"
     }
   },
@@ -781,38 +781,38 @@
         "allowDetail": true
       }
     },
-    "played": 9,
+    "played": 10,
     "wins": 0,
     "draws": 2,
-    "losses": 7,
+    "losses": 8,
     "winsAET": 0,
     "winsAP": 0,
     "lossesAP": 0,
-    "goalsFor": 6,
-    "goalsAgainst": 25,
+    "goalsFor": 7,
+    "goalsAgainst": 27,
     "points": 2,
     "negativePoints": 0,
     "position": 16,
     "highlight": false,
     "m1": {
-      "matchId": 107695933,
+      "matchId": 107695939,
       "result": "L"
     },
     "m2": {
-      "matchId": 107695922,
+      "matchId": 107695933,
       "result": "L"
     },
     "m3": {
-      "matchId": 107695915,
+      "matchId": 107695922,
       "result": "L"
     },
     "m4": {
-      "matchId": 107695906,
+      "matchId": 107695915,
       "result": "L"
     },
     "m5": {
-      "matchId": 107695902,
-      "result": "D"
+      "matchId": 107695906,
+      "result": "L"
     }
   }
 ]
