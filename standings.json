@@ -154,57 +154,6 @@
   },
   {
     "team": {
-      "id": 28550,
-      "fifaId": "108UHLH",
-      "name": "Carmarthen Town FC",
-      "picture": "3c8d39aa-93e5-4e21-9353-832a187792bc",
-      "place": "Carmarthen",
-      "allowDetail": true,
-      "parent": {
-        "id": 10048,
-        "fifaId": "108UHLH",
-        "name": "Carmarthen Town FC",
-        "picture": "3c8d39aa-93e5-4e21-9353-832a187792bc",
-        "place": "Carmarthen",
-        "allowDetail": true
-      }
-    },
-    "played": 8,
-    "wins": 4,
-    "draws": 2,
-    "losses": 2,
-    "winsAET": 0,
-    "winsAP": 0,
-    "lossesAP": 0,
-    "goalsFor": 19,
-    "goalsAgainst": 17,
-    "points": 14,
-    "negativePoints": 0,
-    "position": 4,
-    "highlight": false,
-    "m1": {
-      "matchId": 107695936,
-      "result": "W"
-    },
-    "m2": {
-      "matchId": 107695926,
-      "result": "D"
-    },
-    "m3": {
-      "matchId": 107695910,
-      "result": "L"
-    },
-    "m4": {
-      "matchId": 107695902,
-      "result": "D"
-    },
-    "m5": {
-      "matchId": 107695894,
-      "result": "L"
-    }
-  },
-  {
-    "team": {
       "id": 27776,
       "fifaId": "108UHSE",
       "name": "Caerau Ely FC",
@@ -220,38 +169,89 @@
         "allowDetail": true
       }
     },
-    "played": 8,
-    "wins": 4,
+    "played": 9,
+    "wins": 5,
     "draws": 1,
     "losses": 3,
     "winsAET": 0,
     "winsAP": 0,
     "lossesAP": 0,
-    "goalsFor": 19,
+    "goalsFor": 21,
     "goalsAgainst": 18,
-    "points": 13,
+    "points": 16,
+    "negativePoints": 0,
+    "position": 4,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695941,
+      "result": "W"
+    },
+    "m2": {
+      "matchId": 107695937,
+      "result": "W"
+    },
+    "m3": {
+      "matchId": 107695922,
+      "result": "W"
+    },
+    "m4": {
+      "matchId": 107695907,
+      "result": "W"
+    },
+    "m5": {
+      "matchId": 107695901,
+      "result": "L"
+    }
+  },
+  {
+    "team": {
+      "id": 28550,
+      "fifaId": "108UHLH",
+      "name": "Carmarthen Town FC",
+      "picture": "3c8d39aa-93e5-4e21-9353-832a187792bc",
+      "place": "Carmarthen",
+      "allowDetail": true,
+      "parent": {
+        "id": 10048,
+        "fifaId": "108UHLH",
+        "name": "Carmarthen Town FC",
+        "picture": "3c8d39aa-93e5-4e21-9353-832a187792bc",
+        "place": "Carmarthen",
+        "allowDetail": true
+      }
+    },
+    "played": 9,
+    "wins": 4,
+    "draws": 2,
+    "losses": 3,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 20,
+    "goalsAgainst": 19,
+    "points": 14,
     "negativePoints": 0,
     "position": 5,
     "highlight": false,
     "m1": {
-      "matchId": 107695937,
-      "result": "W"
+      "matchId": 107695938,
+      "result": "L"
     },
     "m2": {
-      "matchId": 107695922,
+      "matchId": 107695936,
       "result": "W"
     },
     "m3": {
-      "matchId": 107695907,
-      "result": "W"
+      "matchId": 107695926,
+      "result": "D"
     },
     "m4": {
-      "matchId": 107695901,
+      "matchId": 107695910,
       "result": "L"
     },
     "m5": {
-      "matchId": 107695893,
-      "result": "L"
+      "matchId": 107695902,
+      "result": "D"
     }
   },
   {
@@ -373,38 +373,38 @@
         "allowDetail": true
       }
     },
-    "played": 9,
+    "played": 10,
     "wins": 3,
     "draws": 2,
-    "losses": 4,
+    "losses": 5,
     "winsAET": 0,
     "winsAP": 0,
     "lossesAP": 0,
     "goalsFor": 13,
-    "goalsAgainst": 15,
+    "goalsAgainst": 17,
     "points": 11,
     "negativePoints": 0,
     "position": 8,
     "highlight": false,
     "m1": {
+      "matchId": 107695941,
+      "result": "L"
+    },
+    "m2": {
       "matchId": 107695931,
       "result": "D"
     },
-    "m2": {
+    "m3": {
       "matchId": 107695924,
       "result": "W"
     },
-    "m3": {
+    "m4": {
       "matchId": 107695914,
       "result": "L"
     },
-    "m4": {
+    "m5": {
       "matchId": 107695912,
       "result": "D"
-    },
-    "m5": {
-      "matchId": 107695904,
-      "result": "L"
     }
   },
   {
@@ -664,6 +664,57 @@
   },
   {
     "team": {
+      "id": 26973,
+      "fifaId": "108UIGH",
+      "name": "Llantwit Major AFC",
+      "picture": "7afaab16-ef79-4cfa-8485-5adf6d1f3a43",
+      "place": "Llantwit Major",
+      "allowDetail": true,
+      "parent": {
+        "id": 10466,
+        "fifaId": "108UIGH",
+        "name": "Llantwit Major",
+        "picture": "7afaab16-ef79-4cfa-8485-5adf6d1f3a43",
+        "place": "Llantwit Major",
+        "allowDetail": true
+      }
+    },
+    "played": 7,
+    "wins": 2,
+    "draws": 1,
+    "losses": 4,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 6,
+    "goalsAgainst": 16,
+    "points": 7,
+    "negativePoints": 0,
+    "position": 14,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695938,
+      "result": "W"
+    },
+    "m2": {
+      "matchId": 107695933,
+      "result": "W"
+    },
+    "m3": {
+      "matchId": 107695928,
+      "result": "D"
+    },
+    "m4": {
+      "matchId": 107695892,
+      "result": "L"
+    },
+    "m5": {
+      "matchId": 107695884,
+      "result": "L"
+    }
+  },
+  {
+    "team": {
       "id": 27594,
       "fifaId": "108UFSA",
       "name": "Pontardawe Town FC",
@@ -690,7 +741,7 @@
     "goalsAgainst": 14,
     "points": 6,
     "negativePoints": 0,
-    "position": 14,
+    "position": 15,
     "highlight": false,
     "m1": {
       "matchId": 107695934,
@@ -710,57 +761,6 @@
     },
     "m5": {
       "matchId": 107695885,
-      "result": "L"
-    }
-  },
-  {
-    "team": {
-      "id": 26973,
-      "fifaId": "108UIGH",
-      "name": "Llantwit Major AFC",
-      "picture": "7afaab16-ef79-4cfa-8485-5adf6d1f3a43",
-      "place": "Llantwit Major",
-      "allowDetail": true,
-      "parent": {
-        "id": 10466,
-        "fifaId": "108UIGH",
-        "name": "Llantwit Major",
-        "picture": "7afaab16-ef79-4cfa-8485-5adf6d1f3a43",
-        "place": "Llantwit Major",
-        "allowDetail": true
-      }
-    },
-    "played": 6,
-    "wins": 1,
-    "draws": 1,
-    "losses": 4,
-    "winsAET": 0,
-    "winsAP": 0,
-    "lossesAP": 0,
-    "goalsFor": 4,
-    "goalsAgainst": 15,
-    "points": 4,
-    "negativePoints": 0,
-    "position": 15,
-    "highlight": false,
-    "m1": {
-      "matchId": 107695933,
-      "result": "W"
-    },
-    "m2": {
-      "matchId": 107695928,
-      "result": "D"
-    },
-    "m3": {
-      "matchId": 107695892,
-      "result": "L"
-    },
-    "m4": {
-      "matchId": 107695884,
-      "result": "L"
-    },
-    "m5": {
-      "matchId": 107695880,
       "result": "L"
     }
   },
