@@ -118,38 +118,38 @@
         "allowDetail": true
       }
     },
-    "played": 8,
-    "wins": 5,
+    "played": 9,
+    "wins": 6,
     "draws": 1,
     "losses": 2,
     "winsAET": 0,
     "winsAP": 0,
     "lossesAP": 0,
-    "goalsFor": 19,
-    "goalsAgainst": 15,
-    "points": 16,
+    "goalsFor": 23,
+    "goalsAgainst": 16,
+    "points": 19,
     "negativePoints": 0,
     "position": 3,
     "highlight": false,
     "m1": {
+      "matchId": 107695908,
+      "result": "W"
+    },
+    "m2": {
       "matchId": 107695942,
       "result": "L"
     },
-    "m2": {
+    "m3": {
       "matchId": 107695930,
       "result": "W"
     },
-    "m3": {
+    "m4": {
       "matchId": 107695924,
       "result": "L"
     },
-    "m4": {
+    "m5": {
       "matchId": 107695905,
       "result": "D"
-    },
-    "m5": {
-      "matchId": 107695890,
-      "result": "W"
     }
   },
   {
@@ -730,37 +730,37 @@
         "allowDetail": true
       }
     },
-    "played": 7,
+    "played": 8,
     "wins": 2,
     "draws": 1,
-    "losses": 4,
+    "losses": 5,
     "winsAET": 0,
     "winsAP": 0,
     "lossesAP": 0,
-    "goalsFor": 6,
-    "goalsAgainst": 16,
+    "goalsFor": 7,
+    "goalsAgainst": 20,
     "points": 7,
     "negativePoints": 0,
     "position": 15,
     "highlight": false,
     "m1": {
+      "matchId": 107695908,
+      "result": "L"
+    },
+    "m2": {
       "matchId": 107695938,
       "result": "W"
     },
-    "m2": {
+    "m3": {
       "matchId": 107695933,
       "result": "W"
     },
-    "m3": {
+    "m4": {
       "matchId": 107695928,
       "result": "D"
     },
-    "m4": {
-      "matchId": 107695892,
-      "result": "L"
-    },
     "m5": {
-      "matchId": 107695884,
+      "matchId": 107695892,
       "result": "L"
     }
   },
