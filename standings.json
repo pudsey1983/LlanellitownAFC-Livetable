@@ -16,38 +16,38 @@
         "allowDetail": true
       }
     },
-    "played": 8,
+    "played": 9,
     "wins": 6,
-    "draws": 2,
+    "draws": 3,
     "losses": 0,
     "winsAET": 0,
     "winsAP": 0,
     "lossesAP": 0,
-    "goalsFor": 25,
-    "goalsAgainst": 6,
-    "points": 20,
+    "goalsFor": 30,
+    "goalsAgainst": 11,
+    "points": 21,
     "negativePoints": 0,
     "position": 1,
     "highlight": false,
     "m1": {
+      "matchId": 107695952,
+      "result": "D"
+    },
+    "m2": {
       "matchId": 107695944,
       "result": "W"
     },
-    "m2": {
+    "m3": {
       "matchId": 107695932,
       "result": "D"
     },
-    "m3": {
+    "m4": {
       "matchId": 107695929,
       "result": "W"
     },
-    "m4": {
+    "m5": {
       "matchId": 107695905,
       "result": "D"
-    },
-    "m5": {
-      "matchId": 107695893,
-      "result": "W"
     }
   },
   {
@@ -424,6 +424,57 @@
         "allowDetail": true
       }
     },
+    "played": 11,
+    "wins": 3,
+    "draws": 3,
+    "losses": 5,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 18,
+    "goalsAgainst": 22,
+    "points": 12,
+    "negativePoints": 0,
+    "position": 9,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695952,
+      "result": "D"
+    },
+    "m2": {
+      "matchId": 107695941,
+      "result": "L"
+    },
+    "m3": {
+      "matchId": 107695931,
+      "result": "D"
+    },
+    "m4": {
+      "matchId": 107695924,
+      "result": "W"
+    },
+    "m5": {
+      "matchId": 107695914,
+      "result": "L"
+    }
+  },
+  {
+    "team": {
+      "id": 28142,
+      "fifaId": "108VJTA",
+      "name": "Caerphilly Athletic FC",
+      "picture": "222174e9-8fec-4e22-b0a5-50544a381803",
+      "place": "Penpedairheol",
+      "allowDetail": true,
+      "parent": {
+        "id": 12180,
+        "fifaId": "108VJTA",
+        "name": "Caerphilly Athletic FC",
+        "picture": "222174e9-8fec-4e22-b0a5-50544a381803",
+        "place": "Penpedairheol",
+        "allowDetail": true
+      }
+    },
     "played": 10,
     "wins": 3,
     "draws": 2,
@@ -431,30 +482,30 @@
     "winsAET": 0,
     "winsAP": 0,
     "lossesAP": 0,
-    "goalsFor": 13,
-    "goalsAgainst": 17,
+    "goalsFor": 12,
+    "goalsAgainst": 19,
     "points": 11,
     "negativePoints": 0,
-    "position": 9,
+    "position": 10,
     "highlight": false,
     "m1": {
-      "matchId": 107695941,
-      "result": "L"
-    },
-    "m2": {
-      "matchId": 107695931,
-      "result": "D"
-    },
-    "m3": {
-      "matchId": 107695924,
+      "matchId": 107695950,
       "result": "W"
     },
+    "m2": {
+      "matchId": 107695944,
+      "result": "L"
+    },
+    "m3": {
+      "matchId": 107695930,
+      "result": "L"
+    },
     "m4": {
-      "matchId": 107695914,
+      "matchId": 107695925,
       "result": "L"
     },
     "m5": {
-      "matchId": 107695912,
+      "matchId": 107695916,
       "result": "D"
     }
   },
@@ -486,7 +537,7 @@
     "goalsAgainst": 17,
     "points": 10,
     "negativePoints": 0,
-    "position": 10,
+    "position": 11,
     "highlight": false,
     "m1": {
       "matchId": 107695940,
@@ -537,7 +588,7 @@
     "goalsAgainst": 16,
     "points": 9,
     "negativePoints": 0,
-    "position": 11,
+    "position": 12,
     "highlight": false,
     "m1": {
       "matchId": 107695940,
@@ -577,38 +628,38 @@
         "allowDetail": true
       }
     },
-    "played": 7,
+    "played": 8,
     "wins": 2,
     "draws": 2,
-    "losses": 3,
+    "losses": 4,
     "winsAET": 0,
     "winsAP": 0,
     "lossesAP": 0,
-    "goalsFor": 10,
-    "goalsAgainst": 6,
+    "goalsFor": 12,
+    "goalsAgainst": 9,
     "points": 8,
     "negativePoints": 0,
-    "position": 12,
+    "position": 13,
     "highlight": false,
     "m1": {
+      "matchId": 107695950,
+      "result": "L"
+    },
+    "m2": {
       "matchId": 107695945,
       "result": "D"
     },
-    "m2": {
+    "m3": {
       "matchId": 107695931,
       "result": "D"
     },
-    "m3": {
+    "m4": {
       "matchId": 107695900,
       "result": "L"
     },
-    "m4": {
+    "m5": {
       "matchId": 107695897,
       "result": "L"
-    },
-    "m5": {
-      "matchId": 107695885,
-      "result": "W"
     }
   },
   {
@@ -639,7 +690,7 @@
     "goalsAgainst": 12,
     "points": 8,
     "negativePoints": 0,
-    "position": 13,
+    "position": 14,
     "highlight": false,
     "m1": {
       "matchId": 107695945,
@@ -660,57 +711,6 @@
     "m5": {
       "matchId": 107695887,
       "result": "L"
-    }
-  },
-  {
-    "team": {
-      "id": 28142,
-      "fifaId": "108VJTA",
-      "name": "Caerphilly Athletic FC",
-      "picture": "222174e9-8fec-4e22-b0a5-50544a381803",
-      "place": "Penpedairheol",
-      "allowDetail": true,
-      "parent": {
-        "id": 12180,
-        "fifaId": "108VJTA",
-        "name": "Caerphilly Athletic FC",
-        "picture": "222174e9-8fec-4e22-b0a5-50544a381803",
-        "place": "Penpedairheol",
-        "allowDetail": true
-      }
-    },
-    "played": 9,
-    "wins": 2,
-    "draws": 2,
-    "losses": 5,
-    "winsAET": 0,
-    "winsAP": 0,
-    "lossesAP": 0,
-    "goalsFor": 9,
-    "goalsAgainst": 17,
-    "points": 8,
-    "negativePoints": 0,
-    "position": 14,
-    "highlight": false,
-    "m1": {
-      "matchId": 107695944,
-      "result": "L"
-    },
-    "m2": {
-      "matchId": 107695930,
-      "result": "L"
-    },
-    "m3": {
-      "matchId": 107695925,
-      "result": "L"
-    },
-    "m4": {
-      "matchId": 107695916,
-      "result": "D"
-    },
-    "m5": {
-      "matchId": 107695909,
-      "result": "W"
     }
   },
   {
