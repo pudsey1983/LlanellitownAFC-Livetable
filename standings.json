@@ -358,6 +358,57 @@
   },
   {
     "team": {
+      "id": 28587,
+      "fifaId": "108UJ0B",
+      "name": "Trethomas Bluebirds AFC",
+      "picture": "11b7ab89-b536-4520-a452-3d5a4e0eccee",
+      "place": "Caerphilly",
+      "allowDetail": true,
+      "parent": {
+        "id": 10426,
+        "fifaId": "108UJ0B",
+        "name": "Trethomas Bluebirds AFC",
+        "picture": "11b7ab89-b536-4520-a452-3d5a4e0eccee",
+        "place": "Caerphilly",
+        "allowDetail": true
+      }
+    },
+    "played": 10,
+    "wins": 3,
+    "draws": 4,
+    "losses": 3,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 20,
+    "goalsAgainst": 18,
+    "points": 13,
+    "negativePoints": 0,
+    "position": 8,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695953,
+      "result": "W"
+    },
+    "m2": {
+      "matchId": 107695940,
+      "result": "L"
+    },
+    "m3": {
+      "matchId": 107695935,
+      "result": "D"
+    },
+    "m4": {
+      "matchId": 107695916,
+      "result": "D"
+    },
+    "m5": {
+      "matchId": 107695910,
+      "result": "W"
+    }
+  },
+  {
+    "team": {
       "id": 46445,
       "fifaId": "108UDNH",
       "name": "Treowen Stars AFC",
@@ -373,38 +424,38 @@
         "allowDetail": true
       }
     },
-    "played": 9,
+    "played": 10,
     "wins": 4,
     "draws": 1,
-    "losses": 4,
+    "losses": 5,
     "winsAET": 0,
     "winsAP": 0,
     "lossesAP": 0,
-    "goalsFor": 18,
-    "goalsAgainst": 18,
+    "goalsFor": 19,
+    "goalsAgainst": 21,
     "points": 13,
     "negativePoints": 0,
-    "position": 8,
+    "position": 9,
     "highlight": false,
     "m1": {
-      "matchId": 107695943,
+      "matchId": 107695953,
       "result": "L"
     },
     "m2": {
-      "matchId": 107695934,
+      "matchId": 107695943,
       "result": "L"
     },
     "m3": {
+      "matchId": 107695934,
+      "result": "L"
+    },
+    "m4": {
       "matchId": 107695928,
       "result": "D"
     },
-    "m4": {
+    "m5": {
       "matchId": 107695915,
       "result": "W"
-    },
-    "m5": {
-      "matchId": 107695907,
-      "result": "L"
     }
   },
   {
@@ -435,7 +486,7 @@
     "goalsAgainst": 22,
     "points": 12,
     "negativePoints": 0,
-    "position": 9,
+    "position": 10,
     "highlight": false,
     "m1": {
       "matchId": 107695952,
@@ -486,7 +537,7 @@
     "goalsAgainst": 19,
     "points": 11,
     "negativePoints": 0,
-    "position": 10,
+    "position": 11,
     "highlight": false,
     "m1": {
       "matchId": 107695950,
@@ -507,57 +558,6 @@
     "m5": {
       "matchId": 107695916,
       "result": "D"
-    }
-  },
-  {
-    "team": {
-      "id": 28587,
-      "fifaId": "108UJ0B",
-      "name": "Trethomas Bluebirds AFC",
-      "picture": "11b7ab89-b536-4520-a452-3d5a4e0eccee",
-      "place": "Caerphilly",
-      "allowDetail": true,
-      "parent": {
-        "id": 10426,
-        "fifaId": "108UJ0B",
-        "name": "Trethomas Bluebirds AFC",
-        "picture": "11b7ab89-b536-4520-a452-3d5a4e0eccee",
-        "place": "Caerphilly",
-        "allowDetail": true
-      }
-    },
-    "played": 9,
-    "wins": 2,
-    "draws": 4,
-    "losses": 3,
-    "winsAET": 0,
-    "winsAP": 0,
-    "lossesAP": 0,
-    "goalsFor": 17,
-    "goalsAgainst": 17,
-    "points": 10,
-    "negativePoints": 0,
-    "position": 11,
-    "highlight": false,
-    "m1": {
-      "matchId": 107695940,
-      "result": "L"
-    },
-    "m2": {
-      "matchId": 107695935,
-      "result": "D"
-    },
-    "m3": {
-      "matchId": 107695916,
-      "result": "D"
-    },
-    "m4": {
-      "matchId": 107695910,
-      "result": "W"
-    },
-    "m5": {
-      "matchId": 107695904,
-      "result": "W"
     }
   },
   {
