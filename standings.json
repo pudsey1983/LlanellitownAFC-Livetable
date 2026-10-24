@@ -169,37 +169,37 @@
         "allowDetail": true
       }
     },
-    "played": 10,
+    "played": 11,
     "wins": 6,
     "draws": 1,
-    "losses": 3,
+    "losses": 4,
     "winsAET": 0,
     "winsAP": 0,
     "lossesAP": 0,
     "goalsFor": 22,
-    "goalsAgainst": 18,
+    "goalsAgainst": 20,
     "points": 19,
     "negativePoints": 0,
     "position": 4,
     "highlight": false,
     "m1": {
+      "matchId": 107695955,
+      "result": "L"
+    },
+    "m2": {
       "matchId": 107695946,
       "result": "W"
     },
-    "m2": {
+    "m3": {
       "matchId": 107695941,
       "result": "W"
     },
-    "m3": {
+    "m4": {
       "matchId": 107695937,
       "result": "W"
     },
-    "m4": {
-      "matchId": 107695922,
-      "result": "W"
-    },
     "m5": {
-      "matchId": 107695907,
+      "matchId": 107695922,
       "result": "W"
     }
   },
@@ -562,6 +562,57 @@
   },
   {
     "team": {
+      "id": 26973,
+      "fifaId": "108UIGH",
+      "name": "Llantwit Major AFC",
+      "picture": "7afaab16-ef79-4cfa-8485-5adf6d1f3a43",
+      "place": "Llantwit Major",
+      "allowDetail": true,
+      "parent": {
+        "id": 10466,
+        "fifaId": "108UIGH",
+        "name": "Llantwit Major",
+        "picture": "7afaab16-ef79-4cfa-8485-5adf6d1f3a43",
+        "place": "Llantwit Major",
+        "allowDetail": true
+      }
+    },
+    "played": 10,
+    "wins": 3,
+    "draws": 2,
+    "losses": 5,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 10,
+    "goalsAgainst": 21,
+    "points": 11,
+    "negativePoints": 0,
+    "position": 12,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695955,
+      "result": "W"
+    },
+    "m2": {
+      "matchId": 107695947,
+      "result": "D"
+    },
+    "m3": {
+      "matchId": 107695908,
+      "result": "L"
+    },
+    "m4": {
+      "matchId": 107695938,
+      "result": "W"
+    },
+    "m5": {
+      "matchId": 107695933,
+      "result": "W"
+    }
+  },
+  {
+    "team": {
       "id": 27594,
       "fifaId": "108UFSA",
       "name": "Pontardawe Town FC",
@@ -588,7 +639,7 @@
     "goalsAgainst": 17,
     "points": 10,
     "negativePoints": 0,
-    "position": 12,
+    "position": 13,
     "highlight": false,
     "m1": {
       "matchId": 107695947,
@@ -639,7 +690,7 @@
     "goalsAgainst": 13,
     "points": 9,
     "negativePoints": 0,
-    "position": 13,
+    "position": 14,
     "highlight": false,
     "m1": {
       "matchId": 107695961,
@@ -690,7 +741,7 @@
     "goalsAgainst": 17,
     "points": 9,
     "negativePoints": 0,
-    "position": 14,
+    "position": 15,
     "highlight": false,
     "m1": {
       "matchId": 107695959,
@@ -711,57 +762,6 @@
     "m5": {
       "matchId": 107695927,
       "result": "W"
-    }
-  },
-  {
-    "team": {
-      "id": 26973,
-      "fifaId": "108UIGH",
-      "name": "Llantwit Major AFC",
-      "picture": "7afaab16-ef79-4cfa-8485-5adf6d1f3a43",
-      "place": "Llantwit Major",
-      "allowDetail": true,
-      "parent": {
-        "id": 10466,
-        "fifaId": "108UIGH",
-        "name": "Llantwit Major",
-        "picture": "7afaab16-ef79-4cfa-8485-5adf6d1f3a43",
-        "place": "Llantwit Major",
-        "allowDetail": true
-      }
-    },
-    "played": 9,
-    "wins": 2,
-    "draws": 2,
-    "losses": 5,
-    "winsAET": 0,
-    "winsAP": 0,
-    "lossesAP": 0,
-    "goalsFor": 8,
-    "goalsAgainst": 21,
-    "points": 8,
-    "negativePoints": 0,
-    "position": 15,
-    "highlight": false,
-    "m1": {
-      "matchId": 107695947,
-      "result": "D"
-    },
-    "m2": {
-      "matchId": 107695908,
-      "result": "L"
-    },
-    "m3": {
-      "matchId": 107695938,
-      "result": "W"
-    },
-    "m4": {
-      "matchId": 107695933,
-      "result": "W"
-    },
-    "m5": {
-      "matchId": 107695928,
-      "result": "D"
     }
   },
   {
