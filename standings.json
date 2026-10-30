@@ -1,6 +1,108 @@
 [
   {
     "team": {
+      "id": 28616,
+      "fifaId": "108UGWH",
+      "name": "Pontypridd United",
+      "picture": "125f3762-f12f-4da5-9a3e-b8b3075980d9",
+      "place": "Pontypridd",
+      "allowDetail": true,
+      "parent": {
+        "id": 10092,
+        "fifaId": "108UGWH",
+        "name": "Pontypridd United",
+        "picture": "125f3762-f12f-4da5-9a3e-b8b3075980d9",
+        "place": "Pontypridd",
+        "allowDetail": true
+      }
+    },
+    "played": 12,
+    "wins": 7,
+    "draws": 3,
+    "losses": 2,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 32,
+    "goalsAgainst": 21,
+    "points": 24,
+    "negativePoints": 0,
+    "position": 1,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695962,
+      "result": "W"
+    },
+    "m2": {
+      "matchId": 107695961,
+      "result": "D"
+    },
+    "m3": {
+      "matchId": 107695949,
+      "result": "D"
+    },
+    "m4": {
+      "matchId": 107695908,
+      "result": "W"
+    },
+    "m5": {
+      "matchId": 107695942,
+      "result": "L"
+    }
+  },
+  {
+    "team": {
+      "id": 27776,
+      "fifaId": "108UHSE",
+      "name": "Caerau Ely FC",
+      "picture": "8c5568eb-d71d-4ecb-b1e5-608d61f51f2c",
+      "place": "Cardiff",
+      "allowDetail": true,
+      "parent": {
+        "id": 10038,
+        "fifaId": "108UHSE",
+        "name": "Caerau Ely FC",
+        "picture": "5e49ffb3-22f7-431b-80d5-8c3304b2cafe",
+        "place": "Cardiff",
+        "allowDetail": true
+      }
+    },
+    "played": 12,
+    "wins": 7,
+    "draws": 1,
+    "losses": 4,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 23,
+    "goalsAgainst": 20,
+    "points": 22,
+    "negativePoints": 0,
+    "position": 2,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695963,
+      "result": "W"
+    },
+    "m2": {
+      "matchId": 107695955,
+      "result": "L"
+    },
+    "m3": {
+      "matchId": 107695946,
+      "result": "W"
+    },
+    "m4": {
+      "matchId": 107695941,
+      "result": "W"
+    },
+    "m5": {
+      "matchId": 107695937,
+      "result": "W"
+    }
+  },
+  {
+    "team": {
       "id": 28488,
       "fifaId": "108UZ3B",
       "name": "Pure Swansea FC",
@@ -27,7 +129,7 @@
     "goalsAgainst": 11,
     "points": 21,
     "negativePoints": 0,
-    "position": 1,
+    "position": 3,
     "highlight": false,
     "m1": {
       "matchId": 107695952,
@@ -48,57 +150,6 @@
     "m5": {
       "matchId": 107695905,
       "result": "D"
-    }
-  },
-  {
-    "team": {
-      "id": 28616,
-      "fifaId": "108UGWH",
-      "name": "Pontypridd United",
-      "picture": "125f3762-f12f-4da5-9a3e-b8b3075980d9",
-      "place": "Pontypridd",
-      "allowDetail": true,
-      "parent": {
-        "id": 10092,
-        "fifaId": "108UGWH",
-        "name": "Pontypridd United",
-        "picture": "125f3762-f12f-4da5-9a3e-b8b3075980d9",
-        "place": "Pontypridd",
-        "allowDetail": true
-      }
-    },
-    "played": 11,
-    "wins": 6,
-    "draws": 3,
-    "losses": 2,
-    "winsAET": 0,
-    "winsAP": 0,
-    "lossesAP": 0,
-    "goalsFor": 28,
-    "goalsAgainst": 21,
-    "points": 21,
-    "negativePoints": 0,
-    "position": 2,
-    "highlight": false,
-    "m1": {
-      "matchId": 107695961,
-      "result": "D"
-    },
-    "m2": {
-      "matchId": 107695949,
-      "result": "D"
-    },
-    "m3": {
-      "matchId": 107695908,
-      "result": "W"
-    },
-    "m4": {
-      "matchId": 107695942,
-      "result": "L"
-    },
-    "m5": {
-      "matchId": 107695930,
-      "result": "W"
     }
   },
   {
@@ -129,7 +180,7 @@
     "goalsAgainst": 9,
     "points": 19,
     "negativePoints": 0,
-    "position": 3,
+    "position": 4,
     "highlight": false,
     "m1": {
       "matchId": 107695946,
@@ -154,57 +205,6 @@
   },
   {
     "team": {
-      "id": 27776,
-      "fifaId": "108UHSE",
-      "name": "Caerau Ely FC",
-      "picture": "8c5568eb-d71d-4ecb-b1e5-608d61f51f2c",
-      "place": "Cardiff",
-      "allowDetail": true,
-      "parent": {
-        "id": 10038,
-        "fifaId": "108UHSE",
-        "name": "Caerau Ely FC",
-        "picture": "5e49ffb3-22f7-431b-80d5-8c3304b2cafe",
-        "place": "Cardiff",
-        "allowDetail": true
-      }
-    },
-    "played": 11,
-    "wins": 6,
-    "draws": 1,
-    "losses": 4,
-    "winsAET": 0,
-    "winsAP": 0,
-    "lossesAP": 0,
-    "goalsFor": 22,
-    "goalsAgainst": 20,
-    "points": 19,
-    "negativePoints": 0,
-    "position": 4,
-    "highlight": false,
-    "m1": {
-      "matchId": 107695955,
-      "result": "L"
-    },
-    "m2": {
-      "matchId": 107695946,
-      "result": "W"
-    },
-    "m3": {
-      "matchId": 107695941,
-      "result": "W"
-    },
-    "m4": {
-      "matchId": 107695937,
-      "result": "W"
-    },
-    "m5": {
-      "matchId": 107695922,
-      "result": "W"
-    }
-  },
-  {
-    "team": {
       "id": 27755,
       "fifaId": "108VF3F",
       "name": "Baglan Dragons FC",
@@ -220,38 +220,38 @@
         "allowDetail": true
       }
     },
-    "played": 11,
+    "played": 12,
     "wins": 5,
     "draws": 2,
-    "losses": 4,
+    "losses": 5,
     "winsAET": 0,
     "winsAP": 0,
     "lossesAP": 0,
     "goalsFor": 12,
-    "goalsAgainst": 12,
+    "goalsAgainst": 13,
     "points": 17,
     "negativePoints": 0,
     "position": 5,
     "highlight": false,
     "m1": {
+      "matchId": 107695969,
+      "result": "L"
+    },
+    "m2": {
       "matchId": 107695949,
       "result": "D"
     },
-    "m2": {
+    "m3": {
       "matchId": 107695939,
       "result": "W"
     },
-    "m3": {
+    "m4": {
       "matchId": 107695936,
       "result": "L"
     },
-    "m4": {
+    "m5": {
       "matchId": 107695927,
       "result": "L"
-    },
-    "m5": {
-      "matchId": 107695914,
-      "result": "W"
     }
   },
   {
@@ -358,6 +358,57 @@
   },
   {
     "team": {
+      "id": 46445,
+      "fifaId": "108UDNH",
+      "name": "Treowen Stars AFC",
+      "picture": "722752c0-8be5-4a92-909c-de295225cc5a",
+      "place": "Newbridge",
+      "allowDetail": true,
+      "parent": {
+        "id": 10306,
+        "fifaId": "108UDNH",
+        "name": "Treowen Stars AFC",
+        "picture": "722752c0-8be5-4a92-909c-de295225cc5a",
+        "place": "Newbridge",
+        "allowDetail": true
+      }
+    },
+    "played": 11,
+    "wins": 5,
+    "draws": 1,
+    "losses": 5,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 20,
+    "goalsAgainst": 21,
+    "points": 16,
+    "negativePoints": 0,
+    "position": 8,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695969,
+      "result": "W"
+    },
+    "m2": {
+      "matchId": 107695953,
+      "result": "L"
+    },
+    "m3": {
+      "matchId": 107695943,
+      "result": "L"
+    },
+    "m4": {
+      "matchId": 107695934,
+      "result": "L"
+    },
+    "m5": {
+      "matchId": 107695928,
+      "result": "D"
+    }
+  },
+  {
+    "team": {
       "id": 28550,
       "fifaId": "108UHLH",
       "name": "Carmarthen Town FC",
@@ -384,7 +435,7 @@
     "goalsAgainst": 24,
     "points": 15,
     "negativePoints": 0,
-    "position": 8,
+    "position": 9,
     "highlight": false,
     "m1": {
       "matchId": 107695958,
@@ -435,7 +486,7 @@
     "goalsAgainst": 22,
     "points": 15,
     "negativePoints": 0,
-    "position": 9,
+    "position": 10,
     "highlight": false,
     "m1": {
       "matchId": 107695954,
@@ -475,89 +526,38 @@
         "allowDetail": true
       }
     },
-    "played": 11,
+    "played": 12,
     "wins": 4,
     "draws": 2,
-    "losses": 5,
+    "losses": 6,
     "winsAET": 0,
     "winsAP": 0,
     "lossesAP": 0,
     "goalsFor": 15,
-    "goalsAgainst": 20,
-    "points": 14,
-    "negativePoints": 0,
-    "position": 10,
-    "highlight": false,
-    "m1": {
-      "matchId": 107695958,
-      "result": "W"
-    },
-    "m2": {
-      "matchId": 107695950,
-      "result": "W"
-    },
-    "m3": {
-      "matchId": 107695944,
-      "result": "L"
-    },
-    "m4": {
-      "matchId": 107695930,
-      "result": "L"
-    },
-    "m5": {
-      "matchId": 107695925,
-      "result": "L"
-    }
-  },
-  {
-    "team": {
-      "id": 46445,
-      "fifaId": "108UDNH",
-      "name": "Treowen Stars AFC",
-      "picture": "722752c0-8be5-4a92-909c-de295225cc5a",
-      "place": "Newbridge",
-      "allowDetail": true,
-      "parent": {
-        "id": 10306,
-        "fifaId": "108UDNH",
-        "name": "Treowen Stars AFC",
-        "picture": "722752c0-8be5-4a92-909c-de295225cc5a",
-        "place": "Newbridge",
-        "allowDetail": true
-      }
-    },
-    "played": 10,
-    "wins": 4,
-    "draws": 1,
-    "losses": 5,
-    "winsAET": 0,
-    "winsAP": 0,
-    "lossesAP": 0,
-    "goalsFor": 19,
     "goalsAgainst": 21,
-    "points": 13,
+    "points": 14,
     "negativePoints": 0,
     "position": 11,
     "highlight": false,
     "m1": {
-      "matchId": 107695953,
+      "matchId": 107695963,
       "result": "L"
     },
     "m2": {
-      "matchId": 107695943,
-      "result": "L"
+      "matchId": 107695958,
+      "result": "W"
     },
     "m3": {
-      "matchId": 107695934,
-      "result": "L"
+      "matchId": 107695950,
+      "result": "W"
     },
     "m4": {
-      "matchId": 107695928,
-      "result": "D"
+      "matchId": 107695944,
+      "result": "L"
     },
     "m5": {
-      "matchId": 107695915,
-      "result": "W"
+      "matchId": 107695930,
+      "result": "L"
     }
   },
   {
@@ -781,37 +781,37 @@
         "allowDetail": true
       }
     },
-    "played": 12,
+    "played": 13,
     "wins": 0,
     "draws": 2,
-    "losses": 10,
+    "losses": 11,
     "winsAET": 0,
     "winsAP": 0,
     "lossesAP": 0,
     "goalsFor": 9,
-    "goalsAgainst": 36,
+    "goalsAgainst": 40,
     "points": 2,
     "negativePoints": 0,
     "position": 16,
     "highlight": false,
     "m1": {
-      "matchId": 107695954,
+      "matchId": 107695962,
       "result": "L"
     },
     "m2": {
-      "matchId": 107695948,
+      "matchId": 107695954,
       "result": "L"
     },
     "m3": {
-      "matchId": 107695939,
+      "matchId": 107695948,
       "result": "L"
     },
     "m4": {
-      "matchId": 107695933,
+      "matchId": 107695939,
       "result": "L"
     },
     "m5": {
-      "matchId": 107695922,
+      "matchId": 107695933,
       "result": "L"
     }
   }
