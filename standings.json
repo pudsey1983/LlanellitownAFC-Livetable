@@ -52,6 +52,57 @@
   },
   {
     "team": {
+      "id": 28488,
+      "fifaId": "108UZ3B",
+      "name": "Pure Swansea FC",
+      "picture": "30854832-2851-43a9-a56e-f884f9e0dbca",
+      "place": "Swansea",
+      "allowDetail": true,
+      "parent": {
+        "id": 12694,
+        "fifaId": "108UZ3B",
+        "name": "Pure Swansea Football Club",
+        "picture": "30854832-2851-43a9-a56e-f884f9e0dbca",
+        "place": "Swansea",
+        "allowDetail": true
+      }
+    },
+    "played": 11,
+    "wins": 7,
+    "draws": 3,
+    "losses": 1,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 34,
+    "goalsAgainst": 15,
+    "points": 24,
+    "negativePoints": 0,
+    "position": 2,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695975,
+      "result": "W"
+    },
+    "m2": {
+      "matchId": 107695967,
+      "result": "L"
+    },
+    "m3": {
+      "matchId": 107695952,
+      "result": "D"
+    },
+    "m4": {
+      "matchId": 107695944,
+      "result": "W"
+    },
+    "m5": {
+      "matchId": 107695932,
+      "result": "D"
+    }
+  },
+  {
+    "team": {
       "id": 27752,
       "fifaId": "108UIAJ",
       "name": "Aberystwyth Town FC",
@@ -78,7 +129,7 @@
     "goalsAgainst": 10,
     "points": 22,
     "negativePoints": 0,
-    "position": 2,
+    "position": 3,
     "highlight": false,
     "m1": {
       "matchId": 107695964,
@@ -129,7 +180,7 @@
     "goalsAgainst": 23,
     "points": 22,
     "negativePoints": 0,
-    "position": 3,
+    "position": 4,
     "highlight": false,
     "m1": {
       "matchId": 107695970,
@@ -149,57 +200,6 @@
     },
     "m5": {
       "matchId": 107695941,
-      "result": "W"
-    }
-  },
-  {
-    "team": {
-      "id": 28488,
-      "fifaId": "108UZ3B",
-      "name": "Pure Swansea FC",
-      "picture": "30854832-2851-43a9-a56e-f884f9e0dbca",
-      "place": "Swansea",
-      "allowDetail": true,
-      "parent": {
-        "id": 12694,
-        "fifaId": "108UZ3B",
-        "name": "Pure Swansea Football Club",
-        "picture": "30854832-2851-43a9-a56e-f884f9e0dbca",
-        "place": "Swansea",
-        "allowDetail": true
-      }
-    },
-    "played": 10,
-    "wins": 6,
-    "draws": 3,
-    "losses": 1,
-    "winsAET": 0,
-    "winsAP": 0,
-    "lossesAP": 0,
-    "goalsFor": 32,
-    "goalsAgainst": 15,
-    "points": 21,
-    "negativePoints": 0,
-    "position": 4,
-    "highlight": false,
-    "m1": {
-      "matchId": 107695967,
-      "result": "L"
-    },
-    "m2": {
-      "matchId": 107695952,
-      "result": "D"
-    },
-    "m3": {
-      "matchId": 107695944,
-      "result": "W"
-    },
-    "m4": {
-      "matchId": 107695932,
-      "result": "D"
-    },
-    "m5": {
-      "matchId": 107695929,
       "result": "W"
     }
   },
@@ -358,6 +358,57 @@
   },
   {
     "team": {
+      "id": 28587,
+      "fifaId": "108UJ0B",
+      "name": "Trethomas Bluebirds AFC",
+      "picture": "11b7ab89-b536-4520-a452-3d5a4e0eccee",
+      "place": "Caerphilly",
+      "allowDetail": true,
+      "parent": {
+        "id": 10426,
+        "fifaId": "108UJ0B",
+        "name": "Trethomas Bluebirds AFC",
+        "picture": "11b7ab89-b536-4520-a452-3d5a4e0eccee",
+        "place": "Caerphilly",
+        "allowDetail": true
+      }
+    },
+    "played": 13,
+    "wins": 4,
+    "draws": 5,
+    "losses": 4,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 26,
+    "goalsAgainst": 23,
+    "points": 17,
+    "negativePoints": 0,
+    "position": 8,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695974,
+      "result": "D"
+    },
+    "m2": {
+      "matchId": 107695964,
+      "result": "L"
+    },
+    "m3": {
+      "matchId": 107695959,
+      "result": "W"
+    },
+    "m4": {
+      "matchId": 107695953,
+      "result": "W"
+    },
+    "m5": {
+      "matchId": 107695940,
+      "result": "L"
+    }
+  },
+  {
+    "team": {
       "id": 46445,
       "fifaId": "108UDNH",
       "name": "Treowen Stars AFC",
@@ -384,7 +435,7 @@
     "goalsAgainst": 23,
     "points": 17,
     "negativePoints": 0,
-    "position": 8,
+    "position": 9,
     "highlight": false,
     "m1": {
       "matchId": 107695976,
@@ -405,57 +456,6 @@
     "m5": {
       "matchId": 107695934,
       "result": "L"
-    }
-  },
-  {
-    "team": {
-      "id": 28587,
-      "fifaId": "108UJ0B",
-      "name": "Trethomas Bluebirds AFC",
-      "picture": "11b7ab89-b536-4520-a452-3d5a4e0eccee",
-      "place": "Caerphilly",
-      "allowDetail": true,
-      "parent": {
-        "id": 10426,
-        "fifaId": "108UJ0B",
-        "name": "Trethomas Bluebirds AFC",
-        "picture": "11b7ab89-b536-4520-a452-3d5a4e0eccee",
-        "place": "Caerphilly",
-        "allowDetail": true
-      }
-    },
-    "played": 12,
-    "wins": 4,
-    "draws": 4,
-    "losses": 4,
-    "winsAET": 0,
-    "winsAP": 0,
-    "lossesAP": 0,
-    "goalsFor": 24,
-    "goalsAgainst": 21,
-    "points": 16,
-    "negativePoints": 0,
-    "position": 9,
-    "highlight": false,
-    "m1": {
-      "matchId": 107695964,
-      "result": "L"
-    },
-    "m2": {
-      "matchId": 107695959,
-      "result": "W"
-    },
-    "m3": {
-      "matchId": 107695953,
-      "result": "W"
-    },
-    "m4": {
-      "matchId": 107695940,
-      "result": "L"
-    },
-    "m5": {
-      "matchId": 107695935,
-      "result": "D"
     }
   },
   {
@@ -679,38 +679,38 @@
         "allowDetail": true
       }
     },
-    "played": 10,
+    "played": 11,
     "wins": 3,
     "draws": 3,
-    "losses": 4,
+    "losses": 5,
     "winsAET": 0,
     "winsAP": 0,
     "lossesAP": 0,
     "goalsFor": 14,
-    "goalsAgainst": 17,
+    "goalsAgainst": 19,
     "points": 12,
     "negativePoints": 0,
     "position": 14,
     "highlight": false,
     "m1": {
+      "matchId": 107695975,
+      "result": "L"
+    },
+    "m2": {
       "matchId": 107695968,
       "result": "W"
     },
-    "m2": {
+    "m3": {
       "matchId": 107695959,
       "result": "L"
     },
-    "m3": {
+    "m4": {
       "matchId": 107695951,
       "result": "D"
     },
-    "m4": {
+    "m5": {
       "matchId": 107695945,
       "result": "D"
-    },
-    "m5": {
-      "matchId": 107695937,
-      "result": "L"
     }
   },
   {
@@ -730,38 +730,38 @@
         "allowDetail": true
       }
     },
-    "played": 11,
+    "played": 12,
     "wins": 3,
-    "draws": 2,
+    "draws": 3,
     "losses": 6,
     "winsAET": 0,
     "winsAP": 0,
     "lossesAP": 0,
-    "goalsFor": 12,
-    "goalsAgainst": 24,
-    "points": 11,
+    "goalsFor": 14,
+    "goalsAgainst": 26,
+    "points": 12,
     "negativePoints": 0,
     "position": 15,
     "highlight": false,
     "m1": {
+      "matchId": 107695974,
+      "result": "D"
+    },
+    "m2": {
       "matchId": 107695965,
       "result": "L"
     },
-    "m2": {
+    "m3": {
       "matchId": 107695955,
       "result": "W"
     },
-    "m3": {
+    "m4": {
       "matchId": 107695947,
       "result": "D"
     },
-    "m4": {
+    "m5": {
       "matchId": 107695908,
       "result": "L"
-    },
-    "m5": {
-      "matchId": 107695938,
-      "result": "W"
     }
   },
   {
