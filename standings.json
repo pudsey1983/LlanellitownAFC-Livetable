@@ -52,6 +52,57 @@
   },
   {
     "team": {
+      "id": 27752,
+      "fifaId": "108UIAJ",
+      "name": "Aberystwyth Town FC",
+      "picture": "b0a89dc1-f633-449e-9501-f17af62dae43",
+      "place": "Aberystwyth",
+      "allowDetail": true,
+      "parent": {
+        "id": 10009,
+        "fifaId": "108UIAJ",
+        "name": "Aberystwyth Town FC",
+        "picture": "b0a89dc1-f633-449e-9501-f17af62dae43",
+        "place": "Aberystwyth",
+        "allowDetail": true
+      }
+    },
+    "played": 11,
+    "wins": 8,
+    "draws": 1,
+    "losses": 2,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 28,
+    "goalsAgainst": 10,
+    "points": 25,
+    "negativePoints": 0,
+    "position": 2,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695972,
+      "result": "W"
+    },
+    "m2": {
+      "matchId": 107695964,
+      "result": "W"
+    },
+    "m3": {
+      "matchId": 107695946,
+      "result": "L"
+    },
+    "m4": {
+      "matchId": 107695942,
+      "result": "W"
+    },
+    "m5": {
+      "matchId": 107695932,
+      "result": "D"
+    }
+  },
+  {
+    "team": {
       "id": 28488,
       "fifaId": "108UZ3B",
       "name": "Pure Swansea FC",
@@ -78,7 +129,7 @@
     "goalsAgainst": 15,
     "points": 24,
     "negativePoints": 0,
-    "position": 2,
+    "position": 3,
     "highlight": false,
     "m1": {
       "matchId": 107695975,
@@ -99,57 +150,6 @@
     "m5": {
       "matchId": 107695932,
       "result": "D"
-    }
-  },
-  {
-    "team": {
-      "id": 27752,
-      "fifaId": "108UIAJ",
-      "name": "Aberystwyth Town FC",
-      "picture": "b0a89dc1-f633-449e-9501-f17af62dae43",
-      "place": "Aberystwyth",
-      "allowDetail": true,
-      "parent": {
-        "id": 10009,
-        "fifaId": "108UIAJ",
-        "name": "Aberystwyth Town FC",
-        "picture": "b0a89dc1-f633-449e-9501-f17af62dae43",
-        "place": "Aberystwyth",
-        "allowDetail": true
-      }
-    },
-    "played": 10,
-    "wins": 7,
-    "draws": 1,
-    "losses": 2,
-    "winsAET": 0,
-    "winsAP": 0,
-    "lossesAP": 0,
-    "goalsFor": 24,
-    "goalsAgainst": 10,
-    "points": 22,
-    "negativePoints": 0,
-    "position": 3,
-    "highlight": false,
-    "m1": {
-      "matchId": 107695964,
-      "result": "W"
-    },
-    "m2": {
-      "matchId": 107695946,
-      "result": "L"
-    },
-    "m3": {
-      "matchId": 107695942,
-      "result": "W"
-    },
-    "m4": {
-      "matchId": 107695932,
-      "result": "D"
-    },
-    "m5": {
-      "matchId": 107695925,
-      "result": "W"
     }
   },
   {
@@ -475,38 +475,38 @@
         "allowDetail": true
       }
     },
-    "played": 12,
+    "played": 13,
     "wins": 4,
     "draws": 3,
-    "losses": 5,
+    "losses": 6,
     "winsAET": 0,
     "winsAP": 0,
     "lossesAP": 0,
     "goalsFor": 24,
-    "goalsAgainst": 26,
+    "goalsAgainst": 30,
     "points": 15,
     "negativePoints": 0,
     "position": 10,
     "highlight": false,
     "m1": {
-      "matchId": 107695966,
+      "matchId": 107695972,
       "result": "L"
     },
     "m2": {
-      "matchId": 107695958,
+      "matchId": 107695966,
       "result": "L"
     },
     "m3": {
+      "matchId": 107695958,
+      "result": "L"
+    },
+    "m4": {
       "matchId": 107695951,
       "result": "D"
     },
-    "m4": {
+    "m5": {
       "matchId": 107695938,
       "result": "L"
-    },
-    "m5": {
-      "matchId": 107695936,
-      "result": "W"
     }
   },
   {
