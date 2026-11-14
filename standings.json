@@ -118,38 +118,38 @@
         "allowDetail": true
       }
     },
-    "played": 11,
+    "played": 12,
     "wins": 7,
     "draws": 3,
-    "losses": 1,
+    "losses": 2,
     "winsAET": 0,
     "winsAP": 0,
     "lossesAP": 0,
-    "goalsFor": 34,
-    "goalsAgainst": 15,
+    "goalsFor": 36,
+    "goalsAgainst": 18,
     "points": 24,
     "negativePoints": 0,
     "position": 3,
     "highlight": false,
     "m1": {
+      "matchId": 107695960,
+      "result": "L"
+    },
+    "m2": {
       "matchId": 107695975,
       "result": "W"
     },
-    "m2": {
+    "m3": {
       "matchId": 107695967,
       "result": "L"
     },
-    "m3": {
+    "m4": {
       "matchId": 107695952,
       "result": "D"
     },
-    "m4": {
+    "m5": {
       "matchId": 107695944,
       "result": "W"
-    },
-    "m5": {
-      "matchId": 107695932,
-      "result": "D"
     }
   },
   {
@@ -205,6 +205,57 @@
   },
   {
     "team": {
+      "id": 46445,
+      "fifaId": "108UDNH",
+      "name": "Treowen Stars AFC",
+      "picture": "722752c0-8be5-4a92-909c-de295225cc5a",
+      "place": "Newbridge",
+      "allowDetail": true,
+      "parent": {
+        "id": 10306,
+        "fifaId": "108UDNH",
+        "name": "Treowen Stars AFC",
+        "picture": "722752c0-8be5-4a92-909c-de295225cc5a",
+        "place": "Newbridge",
+        "allowDetail": true
+      }
+    },
+    "played": 13,
+    "wins": 6,
+    "draws": 2,
+    "losses": 5,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 25,
+    "goalsAgainst": 25,
+    "points": 20,
+    "negativePoints": 0,
+    "position": 5,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695960,
+      "result": "W"
+    },
+    "m2": {
+      "matchId": 107695976,
+      "result": "D"
+    },
+    "m3": {
+      "matchId": 107695969,
+      "result": "W"
+    },
+    "m4": {
+      "matchId": 107695953,
+      "result": "L"
+    },
+    "m5": {
+      "matchId": 107695943,
+      "result": "L"
+    }
+  },
+  {
+    "team": {
       "id": 27755,
       "fifaId": "108VF3F",
       "name": "Baglan Dragons FC",
@@ -231,7 +282,7 @@
     "goalsAgainst": 14,
     "points": 20,
     "negativePoints": 0,
-    "position": 5,
+    "position": 6,
     "highlight": false,
     "m1": {
       "matchId": 107695971,
@@ -282,7 +333,7 @@
     "goalsAgainst": 13,
     "points": 19,
     "negativePoints": 0,
-    "position": 6,
+    "position": 7,
     "highlight": false,
     "m1": {
       "matchId": 107695971,
@@ -333,7 +384,7 @@
     "goalsAgainst": 26,
     "points": 18,
     "negativePoints": 0,
-    "position": 7,
+    "position": 8,
     "highlight": false,
     "m1": {
       "matchId": 107695973,
@@ -384,7 +435,7 @@
     "goalsAgainst": 23,
     "points": 17,
     "negativePoints": 0,
-    "position": 8,
+    "position": 9,
     "highlight": false,
     "m1": {
       "matchId": 107695974,
@@ -404,57 +455,6 @@
     },
     "m5": {
       "matchId": 107695940,
-      "result": "L"
-    }
-  },
-  {
-    "team": {
-      "id": 46445,
-      "fifaId": "108UDNH",
-      "name": "Treowen Stars AFC",
-      "picture": "722752c0-8be5-4a92-909c-de295225cc5a",
-      "place": "Newbridge",
-      "allowDetail": true,
-      "parent": {
-        "id": 10306,
-        "fifaId": "108UDNH",
-        "name": "Treowen Stars AFC",
-        "picture": "722752c0-8be5-4a92-909c-de295225cc5a",
-        "place": "Newbridge",
-        "allowDetail": true
-      }
-    },
-    "played": 12,
-    "wins": 5,
-    "draws": 2,
-    "losses": 5,
-    "winsAET": 0,
-    "winsAP": 0,
-    "lossesAP": 0,
-    "goalsFor": 22,
-    "goalsAgainst": 23,
-    "points": 17,
-    "negativePoints": 0,
-    "position": 9,
-    "highlight": false,
-    "m1": {
-      "matchId": 107695976,
-      "result": "D"
-    },
-    "m2": {
-      "matchId": 107695969,
-      "result": "W"
-    },
-    "m3": {
-      "matchId": 107695953,
-      "result": "L"
-    },
-    "m4": {
-      "matchId": 107695943,
-      "result": "L"
-    },
-    "m5": {
-      "matchId": 107695934,
       "result": "L"
     }
   },
