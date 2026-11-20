@@ -1,6 +1,57 @@
 [
   {
     "team": {
+      "id": 28488,
+      "fifaId": "108UZ3B",
+      "name": "Pure Swansea FC",
+      "picture": "30854832-2851-43a9-a56e-f884f9e0dbca",
+      "place": "Swansea",
+      "allowDetail": true,
+      "parent": {
+        "id": 12694,
+        "fifaId": "108UZ3B",
+        "name": "Pure Swansea Football Club",
+        "picture": "30854832-2851-43a9-a56e-f884f9e0dbca",
+        "place": "Swansea",
+        "allowDetail": true
+      }
+    },
+    "played": 13,
+    "wins": 8,
+    "draws": 3,
+    "losses": 2,
+    "winsAET": 0,
+    "winsAP": 0,
+    "lossesAP": 0,
+    "goalsFor": 39,
+    "goalsAgainst": 20,
+    "points": 27,
+    "negativePoints": 0,
+    "position": 1,
+    "highlight": false,
+    "m1": {
+      "matchId": 107695985,
+      "result": "W"
+    },
+    "m2": {
+      "matchId": 107695960,
+      "result": "L"
+    },
+    "m3": {
+      "matchId": 107695975,
+      "result": "W"
+    },
+    "m4": {
+      "matchId": 107695967,
+      "result": "L"
+    },
+    "m5": {
+      "matchId": 107695952,
+      "result": "D"
+    }
+  },
+  {
+    "team": {
       "id": 28616,
       "fifaId": "108UGWH",
       "name": "Pontypridd United",
@@ -27,7 +78,7 @@
     "goalsAgainst": 22,
     "points": 27,
     "negativePoints": 0,
-    "position": 1,
+    "position": 2,
     "highlight": false,
     "m1": {
       "matchId": 107695970,
@@ -78,7 +129,7 @@
     "goalsAgainst": 10,
     "points": 25,
     "negativePoints": 0,
-    "position": 2,
+    "position": 3,
     "highlight": false,
     "m1": {
       "matchId": 107695972,
@@ -99,57 +150,6 @@
     "m5": {
       "matchId": 107695932,
       "result": "D"
-    }
-  },
-  {
-    "team": {
-      "id": 28488,
-      "fifaId": "108UZ3B",
-      "name": "Pure Swansea FC",
-      "picture": "30854832-2851-43a9-a56e-f884f9e0dbca",
-      "place": "Swansea",
-      "allowDetail": true,
-      "parent": {
-        "id": 12694,
-        "fifaId": "108UZ3B",
-        "name": "Pure Swansea Football Club",
-        "picture": "30854832-2851-43a9-a56e-f884f9e0dbca",
-        "place": "Swansea",
-        "allowDetail": true
-      }
-    },
-    "played": 12,
-    "wins": 7,
-    "draws": 3,
-    "losses": 2,
-    "winsAET": 0,
-    "winsAP": 0,
-    "lossesAP": 0,
-    "goalsFor": 36,
-    "goalsAgainst": 18,
-    "points": 24,
-    "negativePoints": 0,
-    "position": 3,
-    "highlight": false,
-    "m1": {
-      "matchId": 107695960,
-      "result": "L"
-    },
-    "m2": {
-      "matchId": 107695975,
-      "result": "W"
-    },
-    "m3": {
-      "matchId": 107695967,
-      "result": "L"
-    },
-    "m4": {
-      "matchId": 107695952,
-      "result": "D"
-    },
-    "m5": {
-      "matchId": 107695944,
-      "result": "W"
     }
   },
   {
@@ -424,38 +424,38 @@
         "allowDetail": true
       }
     },
-    "played": 13,
+    "played": 14,
     "wins": 4,
     "draws": 5,
-    "losses": 4,
+    "losses": 5,
     "winsAET": 0,
     "winsAP": 0,
     "lossesAP": 0,
-    "goalsFor": 26,
-    "goalsAgainst": 23,
+    "goalsFor": 28,
+    "goalsAgainst": 26,
     "points": 17,
     "negativePoints": 0,
     "position": 9,
     "highlight": false,
     "m1": {
+      "matchId": 107695985,
+      "result": "L"
+    },
+    "m2": {
       "matchId": 107695974,
       "result": "D"
     },
-    "m2": {
+    "m3": {
       "matchId": 107695964,
       "result": "L"
     },
-    "m3": {
+    "m4": {
       "matchId": 107695959,
       "result": "W"
     },
-    "m4": {
+    "m5": {
       "matchId": 107695953,
       "result": "W"
-    },
-    "m5": {
-      "matchId": 107695940,
-      "result": "L"
     }
   },
   {
